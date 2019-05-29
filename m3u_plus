@@ -1,0 +1,953 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="UK-103 ITV" tvg-name="[UK]_ITV_1HD" tvg-logo="http://fullboxiptv.com/img/itv1hd.png" group-title="UK TV",[UK]_ITV_1HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/161
+#EXTINF:-1 tvg-id="UK-103 ITV" tvg-name="[UK]_ITV_1SD" tvg-logo="http://fullboxiptv.com/img/itv1sd.png" group-title="UK TV",[UK]_ITV_1SD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2509
+#EXTINF:-1 tvg-id="556" tvg-name="[UK]_ITV_2HD" tvg-logo="http://fullboxiptv.com/img/itv2hd.png" group-title="UK TV",[UK]_ITV_2HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/37
+#EXTINF:-1 tvg-id="UK-118 ITV2" tvg-name="[UK]_ITV_2SD" tvg-logo="http://fullboxiptv.com/img/itv2sd.png" group-title="UK TV",[UK]_ITV_2SD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2510
+#EXTINF:-1 tvg-id="ITV3 UK" tvg-name="[UK]_ITV_3HD" tvg-logo="http://4d-area.biz/imgb/itv3.png" group-title="UK TV",[UK]_ITV_3HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/240
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_ITV_4HD" tvg-logo="http://4d-area.biz/imgb/itv4.jpg" group-title="UK TV",[UK]_ITV_4HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/241
+#EXTINF:-1 tvg-id="UK-120 ITV4" tvg-name="[UK]_ITV_4SD" tvg-logo="http://fullboxiptv.com/img/itv4sd.png" group-title="UK TV",[UK]_ITV_4SD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2511
+#EXTINF:-1 tvg-id="UK-149 ITVBe" tvg-name="[UK]_ITV_BE" tvg-logo="http://fullboxiptv.com/img/itvbe.png" group-title="UK TV",[UK]_ITV_BE
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2512
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_ITV_Encore" tvg-logo="http://fullboxiptv.com/img/itv1hd.png" group-title="UK TV",[UK]_ITV_Encore
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2463
+#EXTINF:-1 tvg-id="UK-101 BBC One Lon" tvg-name="[UK]_BBC_One" tvg-logo="http://fullboxiptv.com/img/bbcone.jpg" group-title="UK TV",[UK]_BBC_One
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/165
+#EXTINF:-1 tvg-id="UK-119 ITV3" tvg-name="[UK]_ITV_3SD" tvg-logo="http://fullboxiptv.com/img/itv3sd.png" group-title="UK TV",[UK]_ITV_3SD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2507
+#EXTINF:-1 tvg-id="BBC Red Button 3" tvg-name="[UK]_BBC_THREE" tvg-logo="http://fullboxiptv.com/img/bbc3.png" group-title="UK TV",[UK]_BBC_THREE
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2471
+#EXTINF:-1 tvg-id="UK-102 BBC Two Eng" tvg-name="[UK]_BBC_Two" tvg-logo="http://fullboxiptv.com/img/BBC2.png" group-title="UK TV",[UK]_BBC_Two
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/164
+#EXTINF:-1 tvg-id="111" tvg-name="[UK]_BBC_World_News" tvg-logo="http://fullboxiptv.com/img/bbcnewsuk.png" group-title="UK TV",[UK]_BBC_World_News
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2491
+#EXTINF:-1 tvg-id="UK-167 Home & Health" tvg-name="[UK]_DISCOVERY_HOME.&.HEATH" tvg-logo="http://fullboxiptv.com/img/DISCOVERYHOME&HEATH.png" group-title="UK TV",[UK]_DISCOVERY_HOME.&.HEATH
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/6183
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_CAPITAL_TV" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/3/32/Capital_TV_logo.png" group-title="UK TV",[UK]_CAPITAL_TV
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2552
+#EXTINF:-1 tvg-id="UK-601 Cartoon Netwrk" tvg-name="[UK]_Cartoon_Network" tvg-logo="http://fullboxiptv.com/img/cartoonnetwork.png" group-title="UK TV",[UK]_Cartoon_Network
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/74
+#EXTINF:-1 tvg-id="UK-614 CBeebies" tvg-name="[UK]_CBBC_HD" tvg-logo="http://fullboxiptv.com/img/cbbc.png" group-title="UK TV",[UK]_CBBC_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2508
+#EXTINF:-1 tvg-id="113" tvg-name="[UK]_CBeebies_HD" tvg-logo="http://fullboxiptv.com/img/cbeebies.jpg" group-title="UK TV",[UK]_CBeebies_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2470
+#EXTINF:-1 tvg-id="CBSAction.uk" tvg-name="[UK]_CBS_Action" tvg-logo="http://fullboxiptv.com/img/CBS-Action-Logo.png" group-title="UK TV",[UK]_CBS_Action
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/163
+#EXTINF:-1 tvg-id="UK-147 CBS Drama" tvg-name="[UK]_CBS_DRAMA" tvg-logo="http://fullboxiptv.com/img/cbsdrama.png" group-title="UK TV",[UK]_CBS_DRAMA
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2572
+#EXTINF:-1 tvg-id="UK-104 Channel 4" tvg-name="[UK]_CHANNEL_4HD" tvg-logo="http://fullboxiptv.com/img/channel4.png" group-title="UK TV",[UK]_CHANNEL_4HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2474
+#EXTINF:-1 tvg-id="UK-105 Channel 5" tvg-name="[UK]_CHANNEL_5HD" tvg-logo="http://fullboxiptv.com/img/channel5.jpg" group-title="UK TV",[UK]_CHANNEL_5HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2475
+#EXTINF:-1 tvg-id="UK-350 MTV MUSIC" tvg-name="[UK]_MTV_MUSIC+1" tvg-logo="http://fullboxiptv.com/img/mtvmusic.png" group-title="UK TV",[UK]_MTV_MUSIC+1
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2579
+#EXTINF:-1 tvg-id="Chelsea TV" tvg-name="[UK]_CHELSEA_TV_HD" tvg-logo="http://fullboxiptv.com/img/chelseatv.png" group-title="UK TV",[UK]_CHELSEA_TV_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2478
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_COLORS" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/thumb/b/ba/Colors_TV.svg.png/1280px-Colors_TV.svg.png" group-title="UK TV",[UK]_COLORS
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2617
+#EXTINF:-1 tvg-id="UK-128 ComedyXtra" tvg-name="[UK]_Comedy_Xtra" tvg-logo="http://fullboxiptv.com/img/comdyxtra.png" group-title="UK TV",[UK]_Comedy_Xtra
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/651
+#EXTINF:-1 tvg-id="UK-553 Crime+Inv" tvg-name="[UK]_CRIME_&_INVESTIGATION" tvg-logo="http://fullboxiptv.com/img/crimeinvestigation.jpg" group-title="UK TV",[UK]_CRIME_&_INVESTIGATION
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2583
+#EXTINF:-1 tvg-id="UK-214 Dave ja vu" tvg-name="[UK]_DAVE_HD" tvg-logo="http://fullboxiptv.com/img/davetv.png" group-title="UK TV",[UK]_DAVE_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2527
+#EXTINF:-1 tvg-id="UK-520 Discovery" tvg-name="[UK]_DISCOVERY_CHANNEL" tvg-logo="http://fullboxiptv.com/img/Discovery-Channel-logo.png" group-title="UK TV",[UK]_DISCOVERY_CHANNEL
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2581
+#EXTINF:-1 tvg-id="UK-553 Crime+Inv" tvg-name="[UK]_DISCOVERY_INVESTIGATION" tvg-logo="http://fullboxiptv.com/img/id.jpg" group-title="UK TV",[UK]_DISCOVERY_INVESTIGATION
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2584
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="[UK]_DISCOVERY_SCIENCE" tvg-logo="http://fullboxiptv.com/img/discovery_scionce.png" group-title="UK TV",[UK]_DISCOVERY_SCIENCE
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/168
+#EXTINF:-1 tvg-id="UK-161 Discovery Shed" tvg-name="[UK]_DISCOVERY_SHED" tvg-logo="http://fullboxiptv.com/img/Discovery_Shed.png" group-title="UK TV",[UK]_DISCOVERY_SHED
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2591
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="[UK]_DISCOVERY_TURBO" tvg-logo="http://fullboxiptv.com/img/discovery_turbo.jpg" group-title="UK TV",[UK]_DISCOVERY_TURBO
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2590
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="[UK]_DISNEY_CHANNEL" tvg-logo="http://fullboxiptv.com/img/Disney_Channel.png" group-title="UK TV",[UK]_DISNEY_CHANNEL
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2606
+#EXTINF:-1 tvg-id="UK-611 Disney Junior" tvg-name="[UK]_DISNEY_JUNIOR" tvg-logo="http://fullboxiptv.com/img/disney_junior.png" group-title="UK TV",[UK]_DISNEY_JUNIOR
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2605
+#EXTINF:-1 tvg-id="DisneyXD.uk" tvg-name="[UK]_DISNEY_XD" tvg-logo="http://fullboxiptv.com/img/disney_xd.png" group-title="UK TV",[UK]_DISNEY_XD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2608
+#EXTINF:-1 tvg-id="UK-241 DMAX" tvg-name="[UK]_DMAX_UK" tvg-logo="http://fullboxiptv.com/img/dmax.png" group-title="UK TV",[UK]_DMAX_UK
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2593
+#EXTINF:-1 tvg-id="UK-158 Drama" tvg-name="[UK]_DRAMA_CHANNEL" tvg-logo="http://fullboxiptv.com/img/dramachannel.jpg" group-title="UK TV",[UK]_DRAMA_CHANNEL
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2569
+#EXTINF:-1 tvg-id="Sony Entertainment TV Asia" tvg-name="[UK]_E!" tvg-logo="http://fullboxiptv.com/img/entertaiment.jpg" group-title="UK TV",[UK]_E!
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2467
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_VH1_Classic" tvg-logo="http://fullboxiptv.com/img/vh1classic.png" group-title="UK TV",[UK]_VH1_Classic
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2522
+#EXTINF:-1 tvg-id="UK-136 E4" tvg-name="[UK]_E4" tvg-logo="http://fullboxiptv.com/img/e4tv.jpg" group-title="UK TV",[UK]_E4
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2520
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_One_BY" tvg-logo="http://fullboxiptv.com/img/oneby.jpg" group-title="UK TV",[UK]_One_BY
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2521
+#EXTINF:-1 tvg-id="eir Sport 1" tvg-name="[UK]_EIR_SPORT_1" tvg-logo="http://fullboxiptv.com/img/eirsport1.jpg" group-title="UK TV",[UK]_EIR_SPORT_1
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2476
+#EXTINF:-1 tvg-id="eir Sport 2" tvg-name="[UK]_EIR_SPORT_2" tvg-logo="http://fullboxiptv.com/img/eirsport2.jpg" group-title="UK TV",[UK]_EIR_SPORT_2
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2477
+#EXTINF:-1 tvg-id="287" tvg-name="[UK]_EURONEWS" tvg-logo="http://fullboxiptv.com/img/eronews.jpg" group-title="UK TV",[UK]_EURONEWS
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2612
+#EXTINF:-1 tvg-id="332" tvg-name="[UK]_EuroSport 1-HD" tvg-logo="http://fullboxiptv.com/img/europsort-1-HD.jpg" group-title="UK TV",[UK]_EuroSport 1-HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2489
+#EXTINF:-1 tvg-id="333" tvg-name="[UK]_EuroSport-2-HD" tvg-logo="http://fullboxiptv.com/img/eurosport-2-hd.png" group-title="UK TV",[UK]_EuroSport-2-HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2490
+#EXTINF:-1 tvg-id="UK-315 Film4" tvg-name="[UK]_FILM_4" tvg-logo="http://fullboxiptv.com/img/film4.png" group-title="UK TV",[UK]_FILM_4
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2568
+#EXTINF:-1 tvg-id="UK-248 Food Network" tvg-name="[UK]_FOOD_NETWORK" tvg-logo="http://fullboxiptv.com/img/foodnetw.jpg" group-title="UK TV",[UK]_FOOD_NETWORK
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2561
+#EXTINF:-1 tvg-id="UK-124 FOX" tvg-name="[UK]_FOX_HD" tvg-logo="http://fullboxiptv.com/img/foxhd.png" group-title="UK TV",[UK]_FOX_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/162
+#EXTINF:-1 tvg-id="FRANCE 24 English" tvg-name="[UK]_FRANCE_24" tvg-logo="http://fullboxiptv.com/img/franc24en.jpg" group-title="UK TV",[UK]_FRANCE_24
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/806
+#EXTINF:-1 tvg-id="UK-110 GOLD" tvg-name="[UK]_GOLD_TV" tvg-logo="http://fullboxiptv.com/img/GOLDTV.jpg" group-title="UK TV",[UK]_GOLD_TV
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2523
+#EXTINF:-1 tvg-id="UK-362 4Music" tvg-name="[UK]_4MUSIC" tvg-logo="http://fullboxiptv.com/img/4MUSIC.png" group-title="UK TV",[UK]_4MUSIC
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2524
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_GOOD_FOOD" tvg-logo="http://www.entertainment-iuk.com/wp-content/goodfoodhd.jpg" group-title="UK TV",[UK]_GOOD_FOOD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2549
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_H2" tvg-logo="http://bloximages.chicago2.vip.townnews.com/elkodaily.com/content/tncms/assets/v3/editorial/4/d0/4d00625e-a3f5-11e3-bd57-0019bb2963f4/54b5d64904153.image.jpg" group-title="UK TV",[UK]_H2
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2589
+#EXTINF:-1 tvg-id="" tvg-name="[USA]_OWN" tvg-logo="http://fullboxiptv.com/img/owntv.jpg" group-title="USA",[USA]_OWN
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2488
+#EXTINF:-1 tvg-id="UK-529 History" tvg-name="[UK]_HISTORY" tvg-logo="http://fullboxiptv.com/img/history.jpg" group-title="UK TV",[UK]_HISTORY
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2587
+#EXTINF:-1 tvg-id="UK-196 Home" tvg-name="[UK]_HOME" tvg-logo="http://fullboxiptv.com/img/home.jpg" group-title="UK TV",[UK]_HOME
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2559
+#EXTINF:-1 tvg-id="UK-167 Home & Health" tvg-name="[UK]_Home_&_Health" tvg-logo="http://fullboxiptv.com/img/discovery_hh.png" group-title="UK TV",[UK]_Home_&_Health
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2468
+#EXTINF:-1 tvg-id="UK-319 horror channel" tvg-name="[UK]_HORROR_CHANNEL" tvg-logo="http://fullboxiptv.com/img/horrortv.png" group-title="UK TV",[UK]_HORROR_CHANNEL
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2466
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_HORSE_&_COUNTRY" tvg-logo="http://fullboxiptv.com/img/h&c.png" group-title="UK TV",[UK]_HORSE_&_COUNTRY
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2562
+#EXTINF:-1 tvg-id="" tvg-name="[AR]_AL_AFASY" tvg-logo="http://fullboxiptv.com/img/alafasitv.png" group-title="iSLAM TV",[AR]_AL_AFASY
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2465
+#EXTINF:-1 tvg-id="334" tvg-name="[UK]_I.D" tvg-logo="http://fullboxiptv.com/img/id.jpg" group-title="UK TV",[UK]_I.D
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2464
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_NOW_90s" tvg-logo="http://fullboxiptv.com/img/NOW90s.jpg" group-title="UK TV",[UK]_NOW_90s
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2548
+#EXTINF:-1 tvg-id="LFC TV" tvg-name="[UK]_LFC_TV" tvg-logo="http://fullboxiptv.com/img/lfctv.png" group-title="UK TV",[UK]_LFC_TV
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2462
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_LIFETIME" tvg-logo="http://www.mylifetimetv.ca/images/mylifetimetvlogoog.jpg" group-title="UK TV",[UK]_LIFETIME
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2553
+#EXTINF:-1 tvg-id="UK-156 Lifetime" tvg-name="[UK]_LIFETIME_HD" tvg-logo="http://fullboxiptv.com/img/LIFTIME.png" group-title="UK TV",[UK]_LIFETIME_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2493
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_LONDON_LIVE" tvg-logo="https://static.standard.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2013/12/17/16/logo-orange.png" group-title="UK TV",[UK]_LONDON_LIVE
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2530
+#EXTINF:-1 tvg-id="UK-138 More4" tvg-name="[UK]_More4" tvg-logo="http://fullboxiptv.com/img/more4.png" group-title="UK TV",[UK]_More4
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/650
+#EXTINF:-1 tvg-id="UK-325 movies4men" tvg-name="[UK]_MOVIES_4_MEN" tvg-logo="http://fullboxiptv.com/img/movi4man.png" group-title="UK TV",[UK]_MOVIES_4_MEN
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2573
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_Djing_Classic" tvg-logo="http://fullboxiptv.com/img/djingtv.png" group-title="UK TV",[UK]_Djing_Classic
+https://www.djing.com/tv/i-28241-04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_Djing_Ibiza" tvg-logo="http://fullboxiptv.com/img/djingibiza.jpg" group-title="UK TV",[UK]_Djing_Ibiza
+https://www.djing.com/tv/d-28241-04.m3u8
+#EXTINF:-1 tvg-id="UK-126 MTV" tvg-name="[UK]_MTV" tvg-logo="http://fullboxiptv.com/img/mtvuk.png" group-title="UK TV",[UK]_MTV
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2576
+#EXTINF:-1 tvg-id="UK-126 MTV" tvg-name="[UK]_MTV+1" tvg-logo="http://fullboxiptv.com/img/mtv.png" group-title="UK TV",[UK]_MTV+1
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2577
+#EXTINF:-1 tvg-id="UK-356 MTV CLASSIC" tvg-name="[UK]_MTV_Classic" tvg-logo="http://fullboxiptv.com/img/mtvclassic.png" group-title="UK TV",[UK]_MTV_Classic
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/494
+#EXTINF:-1 tvg-id="UK-354 MTV DANCE" tvg-name="[UK]_MTV_DANCE" tvg-logo="http://fullboxiptv.com/img/mtvdance.png" group-title="UK TV",[UK]_MTV_DANCE
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/459
+#EXTINF:-1 tvg-id="UK-351 MTV BASE" tvg-name="[UK]_MTV_BASE" tvg-logo="http://fullboxiptv.com/img/MTV_BASE.png" group-title="UK TV",[UK]_MTV_BASE
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/3537
+#EXTINF:-1 tvg-id="UK-352 MTV HITS" tvg-name="[UK]_MTV_HITS" tvg-logo="http://fullboxiptv.com/img/mtvhit.png" group-title="UK TV",[UK]_MTV_HITS
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/498
+#EXTINF:-1 tvg-id="UK-350 MTV MUSIC" tvg-name="[UK]_MTV_Music" tvg-logo="http://fullboxiptv.com/img/mtvmusic.png" group-title="UK TV",[UK]_MTV_Music
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/497
+#EXTINF:-1 tvg-id="The Box" tvg-name="[UK]_THE_BOX" tvg-logo="http://fullboxiptv.com/img/thebox.png" group-title="UK TV",[UK]_THE_BOX
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4690
+#EXTINF:-1 tvg-id="MUTV" tvg-name="[UK]_MUTV" tvg-logo="http://fullboxiptv.com/img/MUTV.png" group-title="UK TV",[UK]_MUTV
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2461
+#EXTINF:-1 tvg-id="National Geographic Channel HD" tvg-name="[UK]_NATIONAL_GEOGRAPHIC" tvg-logo="http://fullboxiptv.com/img/National-geographic.jpg" group-title="UK TV",[UK]_NATIONAL_GEOGRAPHIC
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2586
+#EXTINF:-1 tvg-id="NatGeoWild.uk" tvg-name="[UK]_NATIONAL_GEOGRAPHIC_WILD" tvg-logo="http://fullboxiptv.com/img/natgeowild.png" group-title="UK TV",[UK]_NATIONAL_GEOGRAPHIC_WILD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/387
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_NHK_WORLD_HD" tvg-logo="http://fullboxiptv.com/img/nhkworld.png" group-title="UK TV",[UK]_NHK_WORLD_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2613
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="[UK]_NICKELODEON" tvg-logo="http://fullboxiptv.com/img/nicklooden.png" group-title="UK TV",[UK]_NICKELODEON
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2600
+#EXTINF:-1 tvg-id="NickJrToo.uk" tvg-name="[UK]_NICKJR.TOO" tvg-logo="http://fullboxiptv.com/img/nickjr2.png" group-title="UK TV",[UK]_NICKJR.TOO
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2604
+#EXTINF:-1 tvg-id="UK-606 Nicktoons" tvg-name="[UK]_Nicktoons" tvg-logo="http://fullboxiptv.com/img/nicktoon.png" group-title="UK TV",[UK]_Nicktoons
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2460
+#EXTINF:-1 tvg-id="NickJr+1.uk" tvg-name="[UK]_NICK_JUNIOR" tvg-logo="http://fullboxiptv.com/img/nickjunioruk.png" group-title="UK TV",[UK]_NICK_JUNIOR
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2602
+#EXTINF:-1 tvg-id="UK-152 Pick" tvg-name="[UK]_PICK_TV" tvg-logo="http://fullboxiptv.com/img/pick.jpg" group-title="UK TV",[UK]_PICK_TV
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2556
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_POP" tvg-logo="http://4d-area.biz/imgb/POP.png" group-title="UK TV",[UK]_POP
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2557
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_POP_MAX" tvg-logo="http://fullboxiptv.com/img/popmax.png" group-title="UK TV",[UK]_POP_MAX
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2459
+#EXTINF:-1 tvg-id="UK-462 Premier Sports" tvg-name="[UK]_Premier_Sports" tvg-logo="http://fullboxiptv.com/img/Premier-Sports.png" group-title="UK TV",[UK]_Premier_Sports
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2458
+#EXTINF:-1 tvg-id="327" tvg-name="[UK]_QUEST" tvg-logo="http://fullboxiptv.com/img/quest.png" group-title="UK TV",[UK]_QUEST
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2554
+#EXTINF:-1 tvg-id="UK-432 Racing UK" tvg-name="[UK]_Racing-UK" tvg-logo="http://fullboxiptv.com/img/racinguk.png" group-title="UK TV",[UK]_Racing-UK
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2492
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_REALLY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Really_logo.svg/996px-Really_logo.svg.png" group-title="UK TV",[UK]_REALLY
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2558
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_BBC_FIRST" tvg-logo="http://fullboxiptv.com/img/BBCFIRST.png" group-title="UK TV",[UK]_BBC_FIRST
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2550
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_HORSE&COUNTRY" tvg-logo="http://fullboxiptv.com/img/HORSE1COUNTRY.png" group-title="UK TV",[UK]_HORSE&COUNTRY
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2623
+#EXTINF:-1 tvg-id="UK-344 ROK" tvg-name="[UK]_ROK_TV" tvg-logo="http://fullboxiptv.com/img/roktv.png" group-title="UK TV",[UK]_ROK_TV
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2624
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_RTE_1HD" tvg-logo="http://www.autocue.ie/images/rte.png" group-title="UK TV",[UK]_RTE_1HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2534
+#EXTINF:-1 tvg-id="RTÉ Two" tvg-name="[UK]_RTE_2HD" tvg-logo="http://fullboxiptv.com/img/RTE2HD_new.png" group-title="UK TV",[UK]_RTE_2HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2535
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_RTE_JUNIOR" tvg-logo="http://fullboxiptv.com/img/rtejunior.png" group-title="UK TV",[UK]_RTE_JUNIOR
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2610
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_RT_DOCUMENTARY" tvg-logo="http://fullboxiptv.com/img/rtdoc.jpg" group-title="UK TV",[UK]_RT_DOCUMENTARY
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2597
+#EXTINF:-1 tvg-id="UK-182 True Ent" tvg-name="[UK]_TRUE_ENTERTAINMENT" tvg-logo="http://fullboxiptv.com/img/trueentertiument.jpg" group-title="UK TV",[UK]_TRUE_ENTERTAINMENT
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2563
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_SKY_1" tvg-logo="http://4d-area.biz/imgb/Sky-1.png" group-title="UK TV",[UK]_SKY_1
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/689
+#EXTINF:-1 tvg-id="UK-163 Sky Two" tvg-name="[UK]_SKY_2" tvg-logo="http://fullboxiptv.com/img/sky2uk.png" group-title="UK TV",[UK]_SKY_2
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/690
+#EXTINF:-1 tvg-id="UK-307 Sky Action" tvg-name="[UK]_SKY_CINEMA_ACTION_&_ADVENTURE_HD" tvg-logo="http://fullboxiptv.com/img/skycinemaactionaventure.png" group-title="UK TV",[UK]_SKY_CINEMA_ACTION_&_ADVENTURE_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/238
+#EXTINF:-1 tvg-id="UK-308 Sky Comedy" tvg-name="[UK]_SKY_CINEMA_COMEDY_HD" tvg-logo="http://fullboxiptv.com/img/SkyCinemaComedyuk.png" group-title="UK TV",[UK]_SKY_CINEMA_COMEDY_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/167
+#EXTINF:-1 tvg-id="Sky Cinema Crime & Thriller" tvg-name="[UK]_SKY_CINEMA_CRIME_&_THRILLER_HD" tvg-logo="http://fullboxiptv.com/img/SKYCCRIMTRIL.png" group-title="UK TV",[UK]_SKY_CINEMA_CRIME_&_THRILLER_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/242
+#EXTINF:-1 tvg-id="Sky Cinema Disney HD" tvg-name="[UK]_SKY_MOVIES_DISNEY_HD" tvg-logo="http://fullboxiptv.com/img/Sky-Cinema-DISNEY.png" group-title="UK TV",[UK]_SKY_MOVIES_DISNEY_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/158
+#EXTINF:-1 tvg-id="UK-308 Sky Comedy" tvg-name="[UK]_SKY_CINEMA_FAMILY_HD" tvg-logo="http://fullboxiptv.com/img/SKY8CINEMA8FAMILYuk.png" group-title="UK TV",[UK]_SKY_CINEMA_FAMILY_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/166
+#EXTINF:-1 tvg-id="UK-301 Sky Premiere" tvg-name="[UK]_SKY_CINEMA_PREMIERE_HD" tvg-logo="http://fullboxiptv.com/img/skycinemapremierehd.png" group-title="UK TV",[UK]_SKY_CINEMA_PREMIERE_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/237
+#EXTINF:-1 tvg-id="SkyPremiere.uk" tvg-name="[UK]_SKY_CINEMA_PREMIERE_+1" tvg-logo="http://fullboxiptv.com/img/skycprem+1.png" group-title="UK TV",[UK]_SKY_CINEMA_PREMIERE_+1
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/556
+#EXTINF:-1 tvg-id="UK-311 Sky Hits" tvg-name="[UK]_SKY_CINEMA_HITS_HD" tvg-logo="http://fullboxiptv.com/img/skyCHITS.png" group-title="UK TV",[UK]_SKY_CINEMA_HITS_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/235
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_SKY_CINEMA_SHOWCASE_HD" tvg-logo="http://fullboxiptv.com/img/SKYCSHOWCASE.png" group-title="UK TV",[UK]_SKY_CINEMA_SHOWCASE_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/239
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_BOX_OFFICE_1" tvg-logo="http://fullboxiptv.com/img/ukboxoffic.png" group-title="UK TV",[UK]_BOX_OFFICE_1
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2603
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_BOX_OFFICE_2" tvg-logo="http://fullboxiptv.com/img/ukboxoffic.png" group-title="UK TV",[UK]_BOX_OFFICE_2
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2487
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_BOX_OFFICE_3" tvg-logo="http://fullboxiptv.com/img/ukboxoffic.png" group-title="UK TV",[UK]_BOX_OFFICE_3
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2536
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_BOX_OFFICE_4" tvg-logo="http://fullboxiptv.com/img/ukboxoffic.png" group-title="UK TV",[UK]_BOX_OFFICE_4
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2564
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_BOX_OFFICE_5" tvg-logo="http://fullboxiptv.com/img/ukboxoffic.png" group-title="UK TV",[UK]_BOX_OFFICE_5
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2518
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_BOX_OFFICE_6" tvg-logo="http://fullboxiptv.com/img/ukboxoffic.png" group-title="UK TV",[UK]_BOX_OFFICE_6
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2506
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_SKY_NEWS" tvg-logo="http://fullboxiptv.com/img/sky_news.png" group-title="UK TV",[UK]_SKY_NEWS
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/1
+#EXTINF:-1 tvg-id="Sony Channel" tvg-name="[UK]_SONY_CHANNEL" tvg-logo="http://fullboxiptv.com/img/soneychanneluk.jpg" group-title="UK TV",[UK]_SONY_CHANNEL
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2615
+#EXTINF:-1 tvg-id="UK-323 Sony Movies" tvg-name="[UK]_SONY_MOVIES" tvg-logo="http://fullboxiptv.com/img/Sony-Movie-Channel.png" group-title="UK TV",[UK]_SONY_MOVIES
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2614
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_SONY_SAB" tvg-logo="http://tvimages.burrp.com/images/channels2/entertainment/Sony-SAB.png" group-title="UK TV",[UK]_SONY_SAB
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2620
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_SONY_SET_MAX_TV_UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Sony_MAX.svg/851px-Sony_MAX.svg.png" group-title="UK TV",[UK]_SONY_SET_MAX_TV_UK
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2621
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_SONY_TV_UK" tvg-logo="https://pbs.twimg.com/profile_images/816241973065613313/d7DxZZUx.jpg" group-title="UK TV",[UK]_SONY_TV_UK
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2619
+#EXTINF:-1 tvg-id="StarGold.uk" tvg-name="[UK]_STAR_GOLD" tvg-logo="http://fullboxiptv.com/img/stargolduk.jpg" group-title="UK TV",[UK]_STAR_GOLD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2481
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_STAR_PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Star_Plus_Logo.jpg/220px-Star_Plus_Logo.jpg" group-title="UK TV",[UK]_STAR_PLUS
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2482
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_STAR_UTSAV" tvg-logo="http://tvimages.burrp.com/images/channels2/entertainment/utsav.png" group-title="UK TV",[UK]_STAR_UTSAV
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2483
+#EXTINF:-1 tvg-id="Syfy.uk" tvg-name="[UK]_SYFY_HD" tvg-logo="http://fullboxiptv.com/img/Syfy_HD.png" group-title="UK TV",[UK]_SYFY_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/663
+#EXTINF:-1 tvg-id="UK-317 TCM" tvg-name="[UK]_TCM" tvg-logo="http://fullboxiptv.com/img/tcmtv.png" group-title="UK TV",[UK]_TCM
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2565
+#EXTINF:-1 tvg-id="" tvg-name="[AR]_AL-RAYYAN_TV" tvg-logo="http://fullboxiptv.com/img/ALRAYYANTV.png" group-title="Arabic TV",[AR]_AL-RAYYAN_TV
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2539
+#EXTINF:-1 tvg-id="UK-125 TLC" tvg-name="[UK]_TLC" tvg-logo="http://fullboxiptv.com/img/tlctv.png" group-title="UK TV",[UK]_TLC
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2531
+#EXTINF:-1 tvg-id="UK-249 Travel Channel" tvg-name="[UK]_TRAVEL_CHANNEL" tvg-logo="http://fullboxiptv.com/img/travelchannel.png" group-title="UK TV",[UK]_TRAVEL_CHANNEL
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2595
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_TRUE_DRAMA" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/07/Medium_true-drama.jpg" group-title="UK TV",[UK]_TRUE_DRAMA
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2570
+#EXTINF:-1 tvg-id="UK-321 True Movies" tvg-name="[UK]_True_Movies_1" tvg-logo="http://fullboxiptv.com/img/True_Movies_1.jpg" group-title="UK TV",[UK]_True_Movies_1
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/159
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_True_MOVIES_2" tvg-logo="http://fullboxiptv.com/img/True_Movies_2_logo.png" group-title="UK TV",[UK]_True_MOVIES_2
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/243
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_TV3" tvg-logo="https://www.screenproducersireland.com/sites/default/files/styles/large/public/field/image/tv3-white-websize_0.gif" group-title="UK TV",[UK]_TV3
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2543
+#EXTINF:-1 tvg-id="597" tvg-name="[UK]_Universal" tvg-logo="http://fullboxiptv.com/img/Universal-Channel.jpg" group-title="UK TV",[UK]_Universal
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2494
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_UTV_IE" tvg-logo="https://pbs.twimg.com/profile_images/787845489915985920/Zh_2j1PH.jpg" group-title="UK TV",[UK]_UTV_IE
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2540
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_VH1" tvg-logo="http://fullboxiptv.com/img/vh1.jpg" group-title="UK TV",[UK]_VH1
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/458
+#EXTINF:-1 tvg-id="UK-353 MTV OMG" tvg-name="[UK]_MTV_CLUB" tvg-logo="http://fullboxiptv.com/img/MTVCLUB.png" group-title="UK TV",[UK]_MTV_CLUB
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2580
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_VIVA_UK" tvg-logo="http://www.berrycinema.co.uk/communities/0/004/012/437/190//images/4605229053.jpg" group-title="UK TV",[UK]_VIVA_UK
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2578
+#EXTINF:-1 tvg-id="UK-109 W" tvg-name="[UK]_W" tvg-logo="http://fullboxiptv.com/img/WUK.jpg" group-title="UK TV",[UK]_W
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2545
+#EXTINF:-1 tvg-id="Yesterday +1" tvg-name="[UK]_YESTERDAY" tvg-logo="http://fullboxiptv.com/img/yesterday.png" group-title="UK TV",[UK]_YESTERDAY
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2469
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_ZEE_CINEMA_UK" tvg-logo="http://www.playfield.ae/wp-content/uploads/2016/07/Z-Cinema-Logo-India-300x214.jpg" group-title="UK TV",[UK]_ZEE_CINEMA_UK
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2480
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_ZEE_TV_UK" tvg-logo="http://www.frocus.net/images/logotv/original/zee-tv.jpg" group-title="UK TV",[UK]_ZEE_TV_UK
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2486
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_ZING UK" tvg-logo="http://bizasialivecom-6bb5.kxcdn.com/wp-content/uploads/2016/07/zing_new001.jpg" group-title="UK TV",[UK]_ZING UK
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2479
+#EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="[UK]_Comedy_Central" tvg-logo="http://fullboxiptv.com/img/comedycentral.png" group-title="UK TV",[UK]_Comedy_Central
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/652
+#EXTINF:-1 tvg-id="Discovery History" tvg-name="[UK]_DISCOVERY_HISTORY" tvg-logo="http://fullboxiptv.com/img/discover_history.png" group-title="UK TV",[UK]_DISCOVERY_HISTORY
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/709
+#EXTINF:-1 tvg-id="MTV Rocks" tvg-name="[UK]_MTV_Rocks" tvg-logo="http://fullboxiptv.com/img/mtv_rocks.png" group-title="UK TV",[UK]_MTV_Rocks
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/495
+#EXTINF:-1 tvg-id="UK-122 Sky Arts" tvg-name="[UK]_SKY_ARTE_HD" tvg-logo="http://fullboxiptv.com/img/Sky-Arte-HD.jpg" group-title="UK TV",[UK]_SKY_ARTE_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/688
+#EXTINF:-1 tvg-id="UK-304 Sky Greats" tvg-name="[UK]_SKY_CINEMA_GREATS_HD" tvg-logo="http://fullboxiptv.com/img/skycinemagreats.png" group-title="UK TV",[UK]_SKY_CINEMA_GREATS_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/427
+#EXTINF:-1 tvg-id="Sky Cinema Sky-Fi HD" tvg-name="[UK]_SKY_CINEMA_SCI-FI_HD" tvg-logo="http://fullboxiptv.com/img/sky-cinema-sic-fi-horror.png" group-title="UK TV",[UK]_SKY_CINEMA_SCI-FI_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/236
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_CBS_JUSTICE" tvg-logo="http://fullboxiptv.com/img/CBSJUSTIC.jpg" group-title="UK TV",[UK]_CBS_JUSTICE
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2538
+#EXTINF:-1 tvg-id="UK-176 5STAR" tvg-name="[UK]_5_STAR" tvg-logo="http://fullboxiptv.com/img/5staruk.png" group-title="UK TV",[UK]_5_STAR
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2525
+#EXTINF:-1 tvg-id="UK-175 5SELECT" tvg-name="[UK]_5_SELECT" tvg-logo="http://fullboxiptv.com/img/5SELECT.png" group-title="UK TV",[UK]_5_SELECT
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2517
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_ALIBI_HD" tvg-logo="http://fullboxiptv.com/img/ALIBI.png" group-title="UK TV",[UK]_ALIBI_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2528
+#EXTINF:-1 tvg-id="Al Jazeera English" tvg-name="[UK]_AL_JAZEERA_ENGLISH" tvg-logo="http://fullboxiptv.com/img/jazeeraenglsh.png" group-title="UK TV",[UK]_AL_JAZEERA_ENGLISH
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2472
+#EXTINF:-1 tvg-id="UK-192 AMC from BT" tvg-name="[UK]_AMC" tvg-logo="http://fullboxiptv.com/img/amc.png" group-title="UK TV",[UK]_AMC
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2567
+#EXTINF:-1 tvg-id="331" tvg-name="[UK]_ANIMAL_PLANET_UK" tvg-logo="http://fullboxiptv.com/img/animalplanet.png" group-title="UK TV",[UK]_ANIMAL_PLANET_UK
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/687
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_ARY_DIGITAL_UK" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/3/36/ARY_Digital_UK.png" group-title="UK TV",[UK]_ARY_DIGITAL_UK
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2622
+#EXTINF:-1 tvg-id="At The Races" tvg-name="[UK]_AT_THE_RACES" tvg-logo="http://fullboxiptv.com/img/attherace.jpg" group-title="UK TV",[UK]_AT_THE_RACES
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2505
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_B4U_MOVIES" tvg-logo="https://yt3.ggpht.com/-rY4vYV-PH60/AAAAAAAAAAI/AAAAAAAAAAA/d4X6JZ9mGe4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="UK TV",[UK]_B4U_MOVIES
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2485
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_B4U_MUSIC" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/b4u-channel-images-logo-large.png" group-title="UK TV",[UK]_B4U_MUSIC
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2484
+#EXTINF:-1 tvg-id="" tvg-name="[UK]_B4U_PLUS" tvg-logo="http://www.b4uplus.com/images/no-image.png" group-title="UK TV",[UK]_B4U_PLUS
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2618
+#EXTINF:-1 tvg-id="UK-623 BabyTV" tvg-name="[UK]_BABY_TV" tvg-logo="http://fullboxiptv.com/img/babytv.jpg" group-title="UK TV",[UK]_BABY_TV
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2609
+#EXTINF:-1 tvg-id="Bloomberg" tvg-name="[UK]_BLOOMBERG_US_HD" tvg-logo="http://fullboxiptv.com/img/bloomberg.png" group-title="UK TV",[UK]_BLOOMBERG_US_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2611
+#EXTINF:-1 tvg-id="Bloomberg" tvg-name="[UK]_BOOMERANG" tvg-logo="http://fullboxiptv.com/img/boomerang.png" group-title="UK TV",[UK]_BOOMERANG
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2598
+#EXTINF:-1 tvg-id="BOX Nation UK" tvg-name="[UK]_BOX-NATION" tvg-logo="http://fullboxiptv.com/img/boxnation.png" group-title="SPORTS TV ARABE",[UK]_BOX-NATION
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/244
+#EXTINF:-1 tvg-id="UK-409 SkySp News" tvg-name="[UK]_SKY_SPORTS_NEWS_HD" tvg-logo="http://fullboxiptv.com/img/skysnews.png" group-title="UK TV",[UK]_SKY_SPORTS_NEWS_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/233
+#EXTINF:-1 tvg-id="UK-401 SkySpMainEv" tvg-name="[UK]_SKY_SPORTS_MAIN_EVENT" tvg-logo="http://fullboxiptv.com/img/skysmainevent.png" group-title="UK TV",[UK]_SKY_SPORTS_MAIN_EVENT
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2497
+#EXTINF:-1 tvg-id="Sky Sports Main Event HD" tvg-name="[UK]_SKY_SPORTS_MAIN_EVENT_HD" tvg-logo="http://fullboxiptv.com/img/skysmainev.png" group-title="UK TV",[UK]_SKY_SPORTS_MAIN_EVENT_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/132
+#EXTINF:-1 tvg-id="UK-404 SkySpCricket" tvg-name="[UK]_SKY_SPORTS_CRICKET" tvg-logo="http://fullboxiptv.com/img/skyscricket.jpg" group-title="UK TV",[UK]_SKY_SPORTS_CRICKET
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2498
+#EXTINF:-1 tvg-id="SkyCricket" tvg-name="[UK]_SKY_SPORTS_CRICKET_HD" tvg-logo="http://fullboxiptv.com/img/skysport cricket.png" group-title="UK TV",[UK]_SKY_SPORTS_CRICKET_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/131
+#EXTINF:-1 tvg-id="UK-407 SkySp Action" tvg-name="[UK]_SKY_SPORTS_ACTION" tvg-logo="http://fullboxiptv.com/img/SkySportsAction_201708.png" group-title="UK TV",[UK]_SKY_SPORTS_ACTION
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2499
+#EXTINF:-1 tvg-id="Sky Sports Action UK" tvg-name="[UK]_SKY_SPORTS_ACTION_HD" tvg-logo="http://fullboxiptv.com/img/SkySportsAction_201708.png" group-title="UK TV",[UK]_SKY_SPORTS_ACTION_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/130
+#EXTINF:-1 tvg-id="UK-405 SkySp Golf" tvg-name="[UK]_SKY_SPORTS_GOLF_HD" tvg-logo="http://fullboxiptv.com/img/skyuksgolf.png" group-title="UK TV",[UK]_SKY_SPORTS_GOLF_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2500
+#EXTINF:-1 tvg-id="UK-408 SkySp Arena" tvg-name="[UK]_SKY_SPORTS_ARENA_HD" tvg-logo="http://fullboxiptv.com/img/ss-arena-live-stream.jpg" group-title="UK TV",[UK]_SKY_SPORTS_ARENA_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/129
+#EXTINF:-1 tvg-id="UK-402 SkySp PL" tvg-name="[UK]_SKY_SPORTS_PREMIER_LEAGUE" tvg-logo="http://fullboxiptv.com/img/Sky-Sportspremeroliga.jpg" group-title="UK TV",[UK]_SKY_SPORTS_PREMIER_LEAGUE
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2501
+#EXTINF:-1 tvg-id="UK-402 SkySp PL" tvg-name="[UK]_SKY_SPORTS_PREMIER_LEAGUE_HD" tvg-logo="http://fullboxiptv.com/img/SKY_SPORTS_PREMIER_LEAGUE_HD.png" group-title="UK TV",[UK]_SKY_SPORTS_PREMIER_LEAGUE_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/128
+#EXTINF:-1 tvg-id="UK-406 SkySp F1" tvg-name="[UK]_SKY_SPORTS_F1" tvg-logo="http://fullboxiptv.com/img/skyukf1.png" group-title="UK TV",[UK]_SKY_SPORTS_F1
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/388
+#EXTINF:-1 tvg-id="UK-121 SkySp Mix" tvg-name="[UK]_SKY_SPORTS_MIX" tvg-logo="http://fullboxiptv.com/img/skysmix.png" group-title="UK TV",[UK]_SKY_SPORTS_MIX
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2496
+#EXTINF:-1 tvg-id="UK-121 SkySp Mix" tvg-name="[UK]_SKY_SPORTS_MIX_HD" tvg-logo="http://fullboxiptv.com/img/skysmix.png" group-title="UK TV",[UK]_SKY_SPORTS_MIX_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2495
+#EXTINF:-1 tvg-id="SkySportsBoxOffice.uk" tvg-name="[UK]_BOX_OFFICE_PPV_(LIVE_DURING_BOXING_MATCH)" tvg-logo="http://fullboxiptv.com/img/skyboxofficepng.png" group-title="UK TV",[UK]_BOX_OFFICE_PPV_(LIVE_DURING_BOXING_MATCH)
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/728
+#EXTINF:-1 tvg-id="BTSportX1.uk" tvg-name="[UK]_BT_SPORT_EXTRA_1" tvg-logo="http://fullboxiptv.com/img/btsportxtra1.png" group-title="UK TV",[UK]_BT_SPORT_EXTRA_1
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/735
+#EXTINF:-1 tvg-id="UK-413 BT Sport 1" tvg-name="[UK]_BT_SPORTS_1HD" tvg-logo="http://fullboxiptv.com/img/bt-sport-1.png" group-title="UK TV",[UK]_BT_SPORTS_1HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2502
+#EXTINF:-1 tvg-id="UK-414 BT Sport 2" tvg-name="[UK]_BT_SPORTS_2HD" tvg-logo="http://fullboxiptv.com/img/btsport2hd.png" group-title="UK TV",[UK]_BT_SPORTS_2HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2503
+#EXTINF:-1 tvg-id="UK-417 BT Sport 3" tvg-name="[UK]_BT_SPORTS_3HD" tvg-logo="http://fullboxiptv.com/img/btsport3hd.png" group-title="UK TV",[UK]_BT_SPORTS_3HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2504
+#EXTINF:-1 tvg-id="UK-413 BT Sport 1" tvg-name="[UK]_BT_SPORT_1" tvg-logo="http://fullboxiptv.com/img/bt-sport-1.png" group-title="UK TV",[UK]_BT_SPORT_1
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/134
+#EXTINF:-1 tvg-id="UK-414 BT Sport 2" tvg-name="[UK]_BT_SPORT_2" tvg-logo="http://fullboxiptv.com/img/btsport2.png" group-title="UK TV",[UK]_BT_SPORT_2
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/133
+#EXTINF:-1 tvg-id="UK-458 BTSpt//ESPNHD" tvg-name="[UK]_BT_SPORT_ESPN" tvg-logo="http://fullboxiptv.com/img/btsportespn.jpg" group-title="UK TV",[UK]_BT_SPORT_ESPN
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/734
+#EXTINF:-1 tvg-id="BTSports3 HD" tvg-name="[UK]_BT_SPORT_3" tvg-logo="http://fullboxiptv.com/img/bts3.png" group-title="UK TV",[UK]_BT_SPORT_3
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/234
+#EXTINF:-1 tvg-id="BT Sport X2" tvg-name="[UK]_BT_SPORT_EXTRA_2" tvg-logo="http://fullboxiptv.com/img/btsextra2.png" group-title="UK TV",[UK]_BT_SPORT_EXTRA_2
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/1797
+#EXTINF:-1 tvg-id="BT Sport X3" tvg-name="[UK]_BT_SPORT_EXTRA_3" tvg-logo="http://fullboxiptv.com/img/bt_sport_uk_extra_3.png" group-title="UK TV",[UK]_BT_SPORT_EXTRA_3
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/1798
+#EXTINF:-1 tvg-id="VM Sport Extra 4 HD" tvg-name="[UK]_BT_SPORT_EXTRA_4" tvg-logo="http://fullboxiptv.com/img/bt_sport_uk_extra_4.png" group-title="UK TV",[UK]_BT_SPORT_EXTRA_4
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/1799
+#EXTINF:-1 tvg-id="BT Sport X5" tvg-name="[UK]_BT_SPORT_EXTRA_5" tvg-logo="http://fullboxiptv.com/img/bt_sport_uk_extra_5.png" group-title="UK TV",[UK]_BT_SPORT_EXTRA_5
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/1800
+#EXTINF:-1 tvg-id="BTSportX6.uk" tvg-name="[UK]_BT_SPORT_EXTRA_6" tvg-logo="http://fullboxiptv.com/img/bt_sport_uk_extra_6.png" group-title="UK TV",[UK]_BT_SPORT_EXTRA_6
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/1801
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ USA @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+#EXTINF:-1 tvg-id="" tvg-name="[USA]_ESPN" tvg-logo="http://fullboxiptv.com/img/ESPN.png" group-title="USA",[USA]_ESPN
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/246
+#EXTINF:-1 tvg-id="" tvg-name="[USA]_ESPN_2HD" tvg-logo="http://fullboxiptv.com/img/espn2.png" group-title="USA",[USA]_ESPN_2HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/799
+#EXTINF:-1 tvg-id="" tvg-name="[USA]_NBA_TV_HD" tvg-logo="http://fullboxiptv.com/img/nbatv.png" group-title="USA",[USA]_NBA_TV_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/804
+#EXTINF:-1 tvg-id="NBC Sports Network HD" tvg-name="[USA]_NBC_SPORT" tvg-logo="http://fullboxiptv.com/img/nbcsport.png" group-title="USA",[USA]_NBC_SPORT
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/245
+#EXTINF:-1 tvg-id="Starz (US)" tvg-name="[USA]_STARZ_EDGE" tvg-logo="http://4d-area.biz/imgb/sedge.png" group-title="USA",[USA]_STARZ_EDGE
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/801
+#EXTINF:-1 tvg-id="" tvg-name="[USA]_TBS_HD" tvg-logo="http://fullboxiptv.com/img/tbshd.png" group-title="USA",[USA]_TBS_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/805
+#EXTINF:-1 tvg-id="" tvg-name="[USA]_Starz_Cinema_HD" tvg-logo="http://fullboxiptv.com/img/starz_cinema.png" group-title="USA",[USA]_Starz_Cinema_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/377
+#EXTINF:-1 tvg-id="CNN US" tvg-name="[USA]_CNN" tvg-logo="http://fullboxiptv.com/img/cnn.png" group-title="USA",[USA]_CNN
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/444
+#EXTINF:-1 tvg-id="Fox Sports 1 (FS1) US" tvg-name="[USA]_FOX_SPORTS_1HD" tvg-logo="http://fullboxiptv.com/img/fs1.png" group-title="USA",[USA]_FOX_SPORTS_1HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/384
+#EXTINF:-1 tvg-id="" tvg-name="[USA]_FOX_SPORTS_2HD" tvg-logo="http://fullboxiptv.com/img/fs2.png" group-title="USA",[USA]_FOX_SPORTS_2HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/383
+#EXTINF:-1 tvg-id="" tvg-name="[USA]_VICELAND" tvg-logo="http://fullboxiptv.com/img/VICELAND.png" group-title="USA",[USA]_VICELAND
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/5156
+#EXTINF:-1 tvg-id="" tvg-name="[USA]_A&E_HD" tvg-logo="http://fullboxiptv.com/img/a&e.png" group-title="USA",[USA]_A&E_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/802
+#EXTINF:-1 tvg-id="TNT On Demand (TNT) US" tvg-name="[USA]_TNT_HD_US" tvg-logo="http://fullboxiptv.com/img/tnthd.png" group-title="USA",[USA]_TNT_HD_US
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/386
+#EXTINF:-1 tvg-id="HBO HD (East)" tvg-name="[USA]_HBO_HD" tvg-logo="http://fullboxiptv.com/img/hbohd.png" group-title="USA",[USA]_HBO_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/374
+#EXTINF:-1 tvg-id="HBO Signature (US)" tvg-name="[USA]_HBO-SIGNATURE" tvg-logo="http://fullboxiptv.com/img/hbosignature.png" group-title="USA",[USA]_HBO-SIGNATURE
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/800
+#EXTINF:-1 tvg-id="Syfy US" tvg-name="[USA]_SYFY_HD" tvg-logo="http://fullboxiptv.com/img/Syfy_HD.png" group-title="USA",[USA]_SYFY_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/385
+#EXTINF:-1 tvg-id="National Geographic Channel (NGC) US" tvg-name="[USA]_NAT-GEO_HD" tvg-logo="http://fullboxiptv.com/img/National-geographic.jpg" group-title="USA",[USA]_NAT-GEO_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2607
+#EXTINF:-1 tvg-id="HGTV On Demand (HGOD) US" tvg-name="[CA]_Omni_2HD" tvg-logo="http://fullboxiptv.com/img/OMNI2.png" group-title="CANADA TV",[CA]_Omni_2HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2537
+#EXTINF:-1 tvg-id="" tvg-name="[USA]_BOOMERANG_HD" tvg-logo="http://fullboxiptv.com/img/boomerang.png" group-title="USA",[USA]_BOOMERANG_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2571
+#EXTINF:-1 tvg-id="" tvg-name="[USA]_SPIKE_HD" tvg-logo="http://fullboxiptv.com/img/spike.png" group-title="USA",[USA]_SPIKE_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2547
+#EXTINF:-1 tvg-id="" tvg-name="[USA]_UNIVERSAL_KIDS" tvg-logo="http://fullboxiptv.com/img/universalkids.png" group-title="USA",[USA]_UNIVERSAL_KIDS
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2526
+#EXTINF:-1 tvg-id="TSN 1" tvg-name="[USA]_TSN_1_HD" tvg-logo="http://fullboxiptv.com/img/tsn_1.png" group-title="USA",[USA]_TSN_1_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4169
+#EXTINF:-1 tvg-id="TSN 2" tvg-name="[USA]_TSN_2_HD" tvg-logo="http://fullboxiptv.com/img/tsn2hd.png" group-title="USA",[USA]_TSN_2_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4170
+#EXTINF:-1 tvg-id="TSN 3" tvg-name="[USA]_TSN_3_HD" tvg-logo="http://fullboxiptv.com/img/tsn3.png" group-title="USA",[USA]_TSN_3_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4171
+#EXTINF:-1 tvg-id="TSN 4" tvg-name="[USA]_TSN_4_HD" tvg-logo="http://fullboxiptv.com/img/tsn4.png" group-title="USA",[USA]_TSN_4_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4172
+#EXTINF:-1 tvg-id="TSN 5" tvg-name="[USA]_TSN_5_HD" tvg-logo="http://fullboxiptv.com/img/tsn5.png" group-title="USA",[USA]_TSN_5_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4173
+#EXTINF:-1 tvg-id="beIN Sports (English) (BEIN) US" tvg-name="[USA]_beIN_SPORTS_US_HD" tvg-logo="http://fullboxiptv.com/img/beinsportusa.jpg" group-title="USA",[USA]_beIN_SPORTS_US_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4758
+#EXTINF:-1 tvg-id="" tvg-name="[USA]_WWE_HD" tvg-logo="http://fullboxiptv.com/img/wwehd.png" group-title="USA",[USA]_WWE_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/382
+#EXTINF:-1 tvg-id="" tvg-name="[CA]_BET" tvg-logo="http://fullboxiptv.com/img/betcan.jpg" group-title="CANADA TV",[CA]_BET
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4979
+#EXTINF:-1 tvg-id="USA Network (East) (USA) US" tvg-name="[USA]_USA_NETWORK" tvg-logo="http://fullboxiptv.com/img/USANETWORK.png" group-title="USA",[USA]_USA_NETWORK
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4983
+#EXTINF:-1 tvg-id="Cartoon Network HDTV (East) (TOONHD) US" tvg-name="[USA]_CARTOON_NETWORK" tvg-logo="http://fullboxiptv.com/img/cartoon_network.jpeg" group-title="USA",[USA]_CARTOON_NETWORK
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4956
+#EXTINF:-1 tvg-id="" tvg-name="[CA]_CTV2" tvg-logo="http://fullboxiptv.com/img/CTV2.png" group-title="CANADA TV",[CA]_CTV2
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4972
+#EXTINF:-1 tvg-id="beIN Sport Canada HD" tvg-name="[CA]_beIN_SPORTS_CANADA_HD" tvg-logo="http://fullboxiptv.com/img/bincan.jpg" group-title="CANADA TV",[CA]_beIN_SPORTS_CANADA_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4971
+#EXTINF:-1 tvg-id="KTLA Los Angeles, CA" tvg-name="[CA]_KTLA" tvg-logo="http://fullboxiptv.com/img/KTLA.jpg" group-title="CANADA TV",[CA]_KTLA
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4953
+#EXTINF:-1 tvg-id="Bravo (East) (BRAVO) US" tvg-name="[USA]_BRAVO_HD" tvg-logo="http://fullboxiptv.com/img/BRAVO.jpeg" group-title="USA",[USA]_BRAVO_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4982
+#EXTINF:-1 tvg-id="Showtime HDTV (East) (SHOHD) US" tvg-name="[USA]_SHOWTIME_HD" tvg-logo="http://fullboxiptv.com/img/SHOWTIME.png" group-title="USA",[USA]_SHOWTIME_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4955
+#EXTINF:-1 tvg-id="CBS US" tvg-name="[USA]_CBS_HD" tvg-logo="http://fullboxiptv.com/img/CBSHD.png" group-title="USA",[USA]_CBS_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4969
+#EXTINF:-1 tvg-id="Fox News Channel HDTV (FNCHD) US" tvg-name="[USA]_FOX_NEWS" tvg-logo="http://fullboxiptv.com/img/FOXNEWS.png" group-title="USA",[USA]_FOX_NEWS
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4952
+#EXTINF:-1 tvg-id="E! Entertainment Television HDTV (East) (E! HD) US" tvg-name="[USA]_E!_ENTERTAINMENT" tvg-logo="http://fullboxiptv.com/img/entertaiment.jpg" group-title="USA",[USA]_E!_ENTERTAINMENT
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4958
+#EXTINF:-1 tvg-id="AMC US" tvg-name="[USA]_AMC" tvg-logo="http://fullboxiptv.com/img/amc.jpg" group-title="USA",[USA]_AMC
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4968
+#EXTINF:-1 tvg-id="" tvg-name="[USA]_CW_HD" tvg-logo="http://fullboxiptv.com/img/CWHD.jpg" group-title="USA",[USA]_CW_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4967
+#EXTINF:-1 tvg-id="Cartoon Network (East) (TOON) US" tvg-name="[CA]_CBC_Montreal" tvg-logo="http://fullboxiptv.com/img/cbcmontreal.jpg" group-title="CANADA TV",[CA]_CBC_Montreal
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4954
+#EXTINF:-1 tvg-id="Comedy Central On Demand (CCOD) US" tvg-name="[USA]_COMEDY_CENTRAL" tvg-logo="http://fullboxiptv.com/img/comedycentral.png" group-title="USA",[USA]_COMEDY_CENTRAL
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4966
+#EXTINF:-1 tvg-id="" tvg-name="[USA]_TRUE_TV" tvg-logo="http://fullboxiptv.com/img/TRUTV.png" group-title="USA",[USA]_TRUE_TV
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4977
+#EXTINF:-1 tvg-id="" tvg-name="[USA]_TLC" tvg-logo="http://fullboxiptv.com/img/TLC.jpg" group-title="USA",[USA]_TLC
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4980
+#EXTINF:-1 tvg-id="" tvg-name="[USA]_FXM" tvg-logo="http://fullboxiptv.com/img/fxm.png" group-title="USA",[USA]_FXM
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4964
+#EXTINF:-1 tvg-id="" tvg-name="[USA]_DISCOVERY_SCIENCE" tvg-logo="http://fullboxiptv.com/img/Discovery_Science_HD.png" group-title="USA",[USA]_DISCOVERY_SCIENCE
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4978
+#EXTINF:-1 tvg-id="" tvg-name="[USA]_MTV" tvg-logo="http://fullboxiptv.com/img/mtv.png" group-title="USA",[USA]_MTV
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4976
+#EXTINF:-1 tvg-id="" tvg-name="[CA]_NBA_TV_HD" tvg-logo="http://fullboxiptv.com/img/nbatv.png" group-title="CANADA TV",[CA]_NBA_TV_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4959
+#EXTINF:-1 tvg-id="" tvg-name="[CA]_Omni_1HD" tvg-logo="http://fullboxiptv.com/img/OMNI1.png" group-title="CANADA TV",[CA]_Omni_1HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4975
+#EXTINF:-1 tvg-id="Cinemax (West) (MAX) US" tvg-name="[USA]_CINEMAX_ACTION_MAX_HD" tvg-logo="http://fullboxiptv.com/img/cinemaxactionmax.png" group-title="USA",[USA]_CINEMAX_ACTION_MAX_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4970
+#EXTINF:-1 tvg-id="FX Movie Channel (FXM) US" tvg-name="[USA]_FX_HD" tvg-logo="http://fullboxiptv.com/img/FXHD.png" group-title="USA",[USA]_FX_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4965
+#EXTINF:-1 tvg-id="" tvg-name="[USA]_ABC_NEWS" tvg-logo="http://fullboxiptv.com/img/ABCNEWS.jpg" group-title="USA",[USA]_ABC_NEWS
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4957
+#EXTINF:-1 tvg-id="Discovery Channel US" tvg-name="[USA]_DISCOVERY_CHANNEL" tvg-logo="http://fullboxiptv.com/img/Discovery-Channel-logo.png" group-title="USA",[USA]_DISCOVERY_CHANNEL
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4961
+#EXTINF:-1 tvg-id="The NFL Network (NFL) US" tvg-name="[USA]_NFL_Network" tvg-logo="http://fullboxiptv.com/img/nflnetwork.png" group-title="USA",[USA]_NFL_Network
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4974
+#EXTINF:-1 tvg-id="" tvg-name="[CA]_GOLF_CHANNEL" tvg-logo="http://fullboxiptv.com/img/golfch.png" group-title="CANADA TV",[CA]_GOLF_CHANNEL
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4960
+#EXTINF:-1 tvg-id="FXX HDTV (East) (FXXHD) US" tvg-name="[USA]_FXX HD" tvg-logo="http://fullboxiptv.com/img/fxxhd.png" group-title="USA",[USA]_FXX HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4981
+#EXTINF:-1 tvg-id="Animal Planet On Demand (APOD) US" tvg-name="[USA]_ANIMAL_PLANET" tvg-logo="http://fullboxiptv.com/img/ANIMALPLANET.png" group-title="USA",[USA]_ANIMAL_PLANET
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4963
+#EXTINF:-1 tvg-id="ABC Family Channel HDTV (East) (ABCF) US" tvg-name="[USA]_ABC" tvg-logo="http://fullboxiptv.com/img/ABCTV.jpg" group-title="USA",[USA]_ABC
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4951
+#EXTINF:-1 tvg-id="" tvg-name="[USA]_TCM" tvg-logo="http://fullboxiptv.com/img/tcmtv.png" group-title="USA",[USA]_TCM
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4962
+#EXTINF:-1 tvg-id="NBC US" tvg-name="[USA]_NBC" tvg-logo="http://fullboxiptv.com/img/nbc.jpg" group-title="USA",[USA]_NBC
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4950
+#EXTINF:-1 tvg-id="CBS Sports Network (CBSSN) US" tvg-name="[USA]_CBS_SPORTS_NETWORK_HD" tvg-logo="http://fullboxiptv.com/img/CBSSPORTNETWORK.png" group-title="USA",[USA]_CBS_SPORTS_NETWORK_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4973
+#EXTINF:0,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ OTHER SPORT @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+#EXTINF:-1 tvg-id="" tvg-name="[AR]_BEIN_SPORTS_NEWS" tvg-logo="http://fullboxiptv.com/img/beinarnews.png" group-title="SPORTS TV ARABE",[AR]_BEIN_SPORTS_NEWS
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/743
+#EXTINF:-1 tvg-id="Bein Sports" tvg-name="[AR]_beIN_SPORTS_GLOBAL_HD" tvg-logo="http://fullboxiptv.com/img/beinglobal.jpg" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_GLOBAL_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4381
+#EXTINF:-1 tvg-id="" tvg-name="[AR]_beIN_SPORTS_NBA" tvg-logo="http://fullboxiptv.com/img/BEINNBA.png" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_NBA
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/5209
+#EXTINF:-1 tvg-id="" tvg-name="[AR]_beIN_SPORTS_MAX_1" tvg-logo="http://fullboxiptv.com/img/beinworldcup.png" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_MAX_1
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/5073
+#EXTINF:-1 tvg-id="" tvg-name="[AR]_beIN_SPORTS_MAX_2" tvg-logo="http://fullboxiptv.com/img/beinworldcup.png" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_MAX_2
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/5074
+#EXTINF:-1 tvg-id="" tvg-name="[AR]_beIN_SPORTS_MAX_3" tvg-logo="http://fullboxiptv.com/img/beinworldcup.png" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_MAX_3
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2432
+#EXTINF:-1 tvg-id="" tvg-name="[AR]_beIN_SPORTS_MAX_4" tvg-logo="http://fullboxiptv.com/img/beinworldcup.png" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_MAX_4
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/3109
+#EXTINF:-1 tvg-id="Bein Sports 1" tvg-name="[AR]_beIN_SPORTS_HD1_Local" tvg-logo="http://fullboxiptv.com/img/b1.jpg" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_HD1_Local
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/955
+#EXTINF:-1 tvg-id="Bein Sports 2" tvg-name="[AR]_beIN_SPORTS_HD2_Local" tvg-logo="http://fullboxiptv.com/img/be2.jpg" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_HD2_Local
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/956
+#EXTINF:-1 tvg-id="Bein Sports 3" tvg-name="[AR]_beIN_SPORTS_HD3_Local" tvg-logo="http://fullboxiptv.com/img/be3.jpg" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_HD3_Local
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/957
+#EXTINF:-1 tvg-id="Bein Sports 4" tvg-name="[AR]_beIN_SPORTS_HD4_Local" tvg-logo="http://fullboxiptv.com/img/be4.jpg" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_HD4_Local
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/958
+#EXTINF:-1 tvg-id="Bein Sports 5" tvg-name="[AR]_beIN_SPORTS_HD5_Local" tvg-logo="http://fullboxiptv.com/img/be5.jpg" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_HD5_Local
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/959
+#EXTINF:-1 tvg-id="Bein Sports 6" tvg-name="[AR]_beIN_SPORTS_HD6_Local" tvg-logo="http://fullboxiptv.com/img/be6.jpg" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_HD6_Local
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/960
+#EXTINF:-1 tvg-id="Bein Sports 7" tvg-name="[AR]_beIN_SPORTS_HD7_Local" tvg-logo="http://fullboxiptv.com/img/be7.jpg" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_HD7_Local
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/961
+#EXTINF:-1 tvg-id="Bein Sports 8" tvg-name="[AR]_beIN_SPORTS_HD8_Local" tvg-logo="http://fullboxiptv.com/img/be8.jpg" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_HD8_Local
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/962
+#EXTINF:-1 tvg-id="Bein Sports 9" tvg-name="[AR]_beIN_SPORTS_HD9_Local" tvg-logo="http://fullboxiptv.com/img/be9.jpg" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_HD9_Local
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/963
+#EXTINF:-1 tvg-id="Bein Sports 10" tvg-name="[AR]_beIN_SPORTS_HD10_Local" tvg-logo="http://fullboxiptv.com/img/be10.jpg" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_HD10_Local
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/964
+#EXTINF:-1 tvg-id="Bein Sports 1" tvg-name="[AR]_beIN_SPORTS_HD1_HS" tvg-logo="http://fullboxiptv.com/img/be1.jpg" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_HD1_HS
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/7035
+#EXTINF:-1 tvg-id="Bein Sports 2" tvg-name="[AR]_beIN_SPORTS_HD2_HS" tvg-logo="http://fullboxiptv.com/img/be2.jpg" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_HD2_HS
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/7036
+#EXTINF:-1 tvg-id="Bein Sports 3" tvg-name="[AR]_beIN_SPORTS_HD3_HS" tvg-logo="http://fullboxiptv.com/img/be3.jpg" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_HD3_HS
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/7037
+#EXTINF:-1 tvg-id="Bein Sports 4" tvg-name="[AR]_beIN_SPORTS_HD4_HS" tvg-logo="http://fullboxiptv.com/img/be4.jpg" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_HD4_HS
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/7038
+#EXTINF:-1 tvg-id="Bein Sports 5" tvg-name="[AR]_beIN_SPORTS_HD5_HS" tvg-logo="http://fullboxiptv.com/img/be5.jpg" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_HD5_HS
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/7039
+#EXTINF:-1 tvg-id="Bein Sports 6" tvg-name="[AR]_beIN_SPORTS_HD6_HS" tvg-logo="http://fullboxiptv.com/img/b6.jpg" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_HD6_HS
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/7040
+#EXTINF:-1 tvg-id="Bein Sports 7" tvg-name="[AR]_beIN_SPORTS_HD7_HS" tvg-logo="http://fullboxiptv.com/img/be7.jpg" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_HD7_HS
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/7041
+#EXTINF:-1 tvg-id="Bein Sports 8" tvg-name="[AR]_beIN_SPORTS_HD8_HS" tvg-logo="http://fullboxiptv.com/img/be8.jpg" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_HD8_HS
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/7042
+#EXTINF:-1 tvg-id="Bein Sports 9" tvg-name="[AR]_beIN_SPORTS_HD9_HS" tvg-logo="http://fullboxiptv.com/img/be9.jpg" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_HD9_HS
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/7043
+#EXTINF:-1 tvg-id="Bein Sports 10" tvg-name="[AR]_beIN_SPORTS_HD10_HS" tvg-logo="http://fullboxiptv.com/img/be10.jpg" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_HD10_HS
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/7044
+#EXTINF:-1 tvg-id="Bein Sports 1" tvg-name="[AR]_beIN_SPORTS_1HD" tvg-logo="http://fullboxiptv.com/img/be1.jpg" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_1HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/18
+#EXTINF:-1 tvg-id="Bein Sports 2" tvg-name="[AR]_beIN_SPORTS_2HD" tvg-logo="http://fullboxiptv.com/img/be2.jpg" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_2HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/19
+#EXTINF:-1 tvg-id="Bein Sports 3" tvg-name="[AR]_beIN_SPORTS_3HD" tvg-logo="http://fullboxiptv.com/img/be3.jpg" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_3HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/20
+#EXTINF:-1 tvg-id="Bein Sports 4" tvg-name="[AR]_beIN_SPORTS_4HD" tvg-logo="http://fullboxiptv.com/img/be4.jpg" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_4HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/21
+#EXTINF:-1 tvg-id="Bein Sports 5" tvg-name="[AR]_beIN_SPORTS_5HD" tvg-logo="http://fullboxiptv.com/img/be5.jpg" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_5HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/22
+#EXTINF:-1 tvg-id="Bein Sports 6" tvg-name="[AR]_beIN_SPORTS_6HD" tvg-logo="http://fullboxiptv.com/img/be6.jpg" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_6HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/23
+#EXTINF:-1 tvg-id="Bein Sports 7" tvg-name="[AR]_beIN_SPORTS_7HD" tvg-logo="http://fullboxiptv.com/img/be7.jpg" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_7HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/24
+#EXTINF:-1 tvg-id="Bein Sports 8" tvg-name="[AR]_beIN_SPORTS_8HD" tvg-logo="http://fullboxiptv.com/img/be8.jpg" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_8HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/25
+#EXTINF:-1 tvg-id="Bein Sports 9" tvg-name="[AR]_beIN_SPORTS_9HD" tvg-logo="http://fullboxiptv.com/img/be9.jpg" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_9HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/26
+#EXTINF:-1 tvg-id="Bein Sports 10" tvg-name="[AR]_beIN_SPORTS_10HD" tvg-logo="http://fullboxiptv.com/img/be10.jpg" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_10HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/27
+#EXTINF:-1 tvg-id="Bein Sports 11" tvg-name="[AR]_beIN_SPORTS_11HD" tvg-logo="http://fullboxiptv.com/img/be11.png" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_11HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/28
+#EXTINF:-1 tvg-id="Bein Sports 12" tvg-name="[AR]_beIN_SPORTS_12HD" tvg-logo="http://fullboxiptv.com/img/be12.png" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_12HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/29
+#EXTINF:-1 tvg-id="Bein Sports 13" tvg-name="[AR]_beIN_SPORTS_13HD" tvg-logo="http://fullboxiptv.com/img/be13.png" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_13HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/729
+#EXTINF:-1 tvg-id="Bein Sports 14" tvg-name="[AR]_beIN_SPORTS_14HD" tvg-logo="http://fullboxiptv.com/img/be14.png" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_14HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/30
+#EXTINF:-1 tvg-id="Bein Sports 15" tvg-name="[AR]_beIN_SPORTS_15HD" tvg-logo="http://fullboxiptv.com/img/be15.png" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_15HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/31
+#EXTINF:-1 tvg-id="Bein Sports 16" tvg-name="[AR]_beIN_SPORTS_16HD" tvg-logo="http://fullboxiptv.com/img/be16.png" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_16HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/32
+#EXTINF:-1 tvg-id="Bein Sports 17" tvg-name="[AR]_beIN_SPORTS_17HD" tvg-logo="http://fullboxiptv.com/img/be17.png" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_17HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/33
+#EXTINF:-1 tvg-id="Bein Sports 1" tvg-name="[AR]_beOUT Q Sports 1 HD" tvg-logo="http://fullboxiptv.com/img/beq1.png" group-title="SPORTS TV ARABE",[AR]_beOUT Q Sports 1 HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4339
+#EXTINF:-1 tvg-id="Bein Sports 2" tvg-name="[AR]_beOUT Q Sports 2 HD" tvg-logo="http://fullboxiptv.com/img/beq2.png" group-title="SPORTS TV ARABE",[AR]_beOUT Q Sports 2 HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4340
+#EXTINF:-1 tvg-id="Bein Sports 3" tvg-name="[AR]_beOUT Q Sports 3 HD" tvg-logo="http://fullboxiptv.com/img/beq3.png" group-title="SPORTS TV ARABE",[AR]_beOUT Q Sports 3 HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4341
+#EXTINF:-1 tvg-id="Bein Sports 4" tvg-name="[AR]_beOUT Q Sports 4 HD" tvg-logo="http://fullboxiptv.com/img/beq4.png" group-title="SPORTS TV ARABE",[AR]_beOUT Q Sports 4 HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4342
+#EXTINF:-1 tvg-id="Bein Sports 5" tvg-name="[AR]_beOUT Q Sports 5 HD" tvg-logo="http://fullboxiptv.com/img/beq5.png" group-title="SPORTS TV ARABE",[AR]_beOUT Q Sports 5 HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4343
+#EXTINF:-1 tvg-id="Bein Sports 6" tvg-name="[AR]_beOUT Q Sports 6 HD" tvg-logo="http://fullboxiptv.com/img/beq6.png" group-title="SPORTS TV ARABE",[AR]_beOUT Q Sports 6 HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4344
+#EXTINF:-1 tvg-id="Bein Sports 7" tvg-name="[AR]_beOUT Q Sports 7 HD" tvg-logo="http://fullboxiptv.com/img/beq7.png" group-title="SPORTS TV ARABE",[AR]_beOUT Q Sports 7 HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4345
+#EXTINF:-1 tvg-id="" tvg-name="[AR]_beOUT Q Sports 8 HD" tvg-logo="http://fullboxiptv.com/img/bout8.png" group-title="SPORTS TV ARABE",[AR]_beOUT Q Sports 8 HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/7338
+#EXTINF:-1 tvg-id="" tvg-name="[AR]_beOUT Q Sports 9 HD" tvg-logo="http://fullboxiptv.com/img/bout9.png" group-title="SPORTS TV ARABE",[AR]_beOUT Q Sports 9 HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/7339
+#EXTINF:-1 tvg-id="" tvg-name="[AR]_beOUT Q Sports 10 HD" tvg-logo="http://fullboxiptv.com/img/bout10.png" group-title="SPORTS TV ARABE",[AR]_beOUT Q Sports 10 HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/7340
+#EXTINF:-1 tvg-id="Bein Sports 1" tvg-name="[AR]_beIN_SPORTS_HD1_HEVC_VIP" tvg-logo="http://fullboxiptv.com/img/be1.jpg" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_HD1_HEVC_VIP
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4346
+#EXTINF:-1 tvg-id="Bein Sports 2" tvg-name="[AR]_beIN_SPORTS_HD2_HEVC_VIP" tvg-logo="http://fullboxiptv.com/img/be2.jpg" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_HD2_HEVC_VIP
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4347
+#EXTINF:-1 tvg-id="Bein Sports 3" tvg-name="[AR]_beIN_SPORTS_HD3_HEVC_VIP" tvg-logo="http://fullboxiptv.com/img/be3.jpg" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_HD3_HEVC_VIP
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4348
+#EXTINF:-1 tvg-id="Bein Sports 4" tvg-name="[AR]_beIN_SPORTS_HD4_HEVC_VIP" tvg-logo="http://fullboxiptv.com/img/be4.jpg" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_HD4_HEVC_VIP
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/262
+#EXTINF:-1 tvg-id="Bein Sports 5" tvg-name="[AR]_beIN_SPORTS_HD5_HEVC_VIP" tvg-logo="http://fullboxiptv.com/img/be5.jpg" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_HD5_HEVC_VIP
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/261
+#EXTINF:-1 tvg-id="Bein Sports 6" tvg-name="[AR]_beIN_SPORTS_HD6_HEVC_VIP" tvg-logo="http://fullboxiptv.com/img/be6.jpg" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_HD6_HEVC_VIP
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/6505
+#EXTINF:-1 tvg-id="Bein Sports 7" tvg-name="[AR]_beIN_SPORTS_HD7_HEVC_VIP" tvg-logo="http://fullboxiptv.com/img/be7.jpg" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_HD7_HEVC_VIP
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/6506
+#EXTINF:-1 tvg-id="Bein Sports 8" tvg-name="[AR]_beIN_SPORTS_HD8_HEVC_VIP" tvg-logo="http://fullboxiptv.com/img/be8.jpg" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_HD8_HEVC_VIP
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/6507
+#EXTINF:-1 tvg-id="Bein Sports 9" tvg-name="[AR]_beIN_SPORTS_HD9_HEVC_VIP" tvg-logo="http://fullboxiptv.com/img/b9.jpg" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_HD9_HEVC_VIP
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/6508
+#EXTINF:-1 tvg-id="Bein Sports 10" tvg-name="[AR]_beIN_SPORTS_HD10_HEVC_VIP" tvg-logo="http://fullboxiptv.com/img/be10.jpg" group-title="SPORTS TV ARABE",[AR]_beIN_SPORTS_HD10_HEVC_VIP
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/6509
+#EXTINF:-1 tvg-id="" tvg-name="[AR]_AD_SPORTS_1" tvg-logo="http://fullboxiptv.com/img/ad1sport.jpg" group-title="SPORTS TV ARABE",[AR]_AD_SPORTS_1
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/280
+#EXTINF:-1 tvg-id="" tvg-name="[AR]_AD_SPORTS_2" tvg-logo="http://fullboxiptv.com/img/adsport2.png" group-title="SPORTS TV ARABE",[AR]_AD_SPORTS_2
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/287
+#EXTINF:-1 tvg-id="" tvg-name="[AR]_AD_SPORTS_3" tvg-logo="http://fullboxiptv.com/img/adsport3.jpg" group-title="SPORTS TV ARABE",[AR]_AD_SPORTS_3
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/541
+#EXTINF:-1 tvg-id="" tvg-name="[AR]_AD_SPORTS_4" tvg-logo="http://fullboxiptv.com/img/adsport4.png" group-title="SPORTS TV ARABE",[AR]_AD_SPORTS_4
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/542
+#EXTINF:-1 tvg-id="" tvg-name="[AR]_AD_SPORTS_5" tvg-logo="http://fullboxiptv.com/img/adsport5.jpg" group-title="SPORTS TV ARABE",[AR]_AD_SPORTS_5
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/543
+#EXTINF:-1 tvg-id="ABMoteurs" tvg-name="[FR]_AUTOMOTO" tvg-logo="http://fullboxiptv.com/img/AUTOMOTO.png" group-title="SPORTS TV FRANCE",[FR]_AUTOMOTO
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/149
+#EXTINF:-1 tvg-id="EquidiaLive.fr" tvg-name="[FR]_EQUIDIA_LIVE_HD" tvg-logo="http://fullboxiptv.com/img/EQUIDIA_LIVE.jpg" group-title="SPORTS TV FRANCE",[FR]_EQUIDIA_LIVE_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/3510
+#EXTINF:-1 tvg-id="EquidiaLive.fr" tvg-name="[FR]_EQUIDIA_LIVE_FHD" tvg-logo="http://fullboxiptv.com/img/EQUIDIA_LIVE.jpg" group-title="SPORTS TV FRANCE",[FR]_EQUIDIA_LIVE_FHD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/3509
+#EXTINF:-1 tvg-id="EXTREME SPORTS" tvg-name="[FR]_EXTREME_SPORT_HD" tvg-logo="http://fullboxiptv.com/img/xtreamsportchannel.png" group-title="SPORTS TV FRANCE",[FR]_EXTREME_SPORT_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/3516
+#EXTINF:-1 tvg-id="Golfplus.fr" tvg-name="[FR]_GOLF+" tvg-logo="http://fullboxiptv.com/img/golf+.jpg" group-title="SPORTS TV FRANCE",[FR]_GOLF+
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/247
+#EXTINF:-1 tvg-id="EquipeTV.fr" tvg-name="[FR]_L'EQUIPE21" tvg-logo="http://fullboxiptv.com/img/lequipe211.jpg" group-title="SPORTS TV FRANCE",[FR]_L'EQUIPE21
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/218
+#EXTINF:-1 tvg-id="JOne" tvg-name="[FR]_J_ONE" tvg-logo="http://fullboxiptv.com/img/jonetv.png" group-title="CSAT-FRANCE",[FR]_J_ONE
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/610
+#EXTINF:-1 tvg-id="EurosportFrance" tvg-name="[FR]_EUROSPORT1-HD" tvg-logo="http://fullboxiptv.com/img/europsort-1-HD.jpg" group-title="SPORTS TV FRANCE",[FR]_EUROSPORT1-HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/644
+#EXTINF:-1 tvg-id="Eurosport2France" tvg-name="[FR]_EUROSPORT2-HD" tvg-logo="http://fullboxiptv.com/img/eurosport-2-hd.png" group-title="SPORTS TV FRANCE",[FR]_EUROSPORT2-HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/3401
+#EXTINF:-1 tvg-id="Kombat Sport" tvg-name="[FR]_KOMBAT_SPORT" tvg-logo="http://fullboxiptv.com/img/LOGO-Kombat_Sport.png" group-title="SPORTS TV FRANCE",[FR]_KOMBAT_SPORT
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/3397
+#EXTINF:-1 tvg-id="" tvg-name="[FR]_FOOT_24/24" tvg-logo="http://fullboxiptv.com/img/footplus.png" group-title="SPORTS TV FRANCE",[FR]_FOOT_24/24
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/216
+#EXTINF:-1 tvg-id="Infosportplus" tvg-name="[FR]_INFOSPORT_HD" tvg-logo="http://fullboxiptv.com/img/infosport-HD.png" group-title="SPORTS TV FRANCE",[FR]_INFOSPORT_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/217
+#EXTINF:-1 tvg-id="Infosportplus" tvg-name="[FR]_INFOSPORT+_FHD" tvg-logo="http://fullboxiptv.com/img/infosport-HD.png" group-title="SPORTS TV FRANCE",[FR]_INFOSPORT+_FHD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4793
+#EXTINF:-1 tvg-id="beINSPORTS1" tvg-name="[FR]_beIN_SPORTS_1HD" tvg-logo="http://fullboxiptv.com/img/b1.jpg" group-title="SPORTS TV FRANCE",[FR]_beIN_SPORTS_1HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/75
+#EXTINF:-1 tvg-id="beINSPORTS1" tvg-name="[FR]_beIN_SPORTS_1_FHD" tvg-logo="http://fullboxiptv.com/img/b1.jpg" group-title="SPORTS TV FRANCE",[FR]_beIN_SPORTS_1_FHD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4167
+#EXTINF:-1 tvg-id="beINSPORTS2" tvg-name="[FR]_beIN_SPORTS_2HD" tvg-logo="http://fullboxiptv.com/img/be2.jpg" group-title="SPORTS TV FRANCE",[FR]_beIN_SPORTS_2HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/214
+#EXTINF:-1 tvg-id="beINSPORTS2" tvg-name="[FR]_beIN_SPORTS_2_FHD" tvg-logo="http://fullboxiptv.com/img/be2.jpg" group-title="SPORTS TV FRANCE",[FR]_beIN_SPORTS_2_FHD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4314
+#EXTINF:-1 tvg-id="beINSPORTS3" tvg-name="[FR]_beIN_SPORTS_3HD" tvg-logo="http://fullboxiptv.com/img/be3.jpg" group-title="SPORTS TV FRANCE",[FR]_beIN_SPORTS_3HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/215
+#EXTINF:-1 tvg-id="beINSPORTS3" tvg-name="[FR]_beIN_SPORTS_3_FHD" tvg-logo="http://fullboxiptv.com/img/be3.jpg" group-title="SPORTS TV FRANCE",[FR]_beIN_SPORTS_3_FHD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4315
+#EXTINF:-1 tvg-id="beINSPORTS4" tvg-name="[FR]_BeIN_SPORTS_MAX_4_local" tvg-logo="http://fullboxiptv.com/img/bmx4.png" group-title="SPORTS TV FRANCE",[FR]_BeIN_SPORTS_MAX_4_local
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/693
+#EXTINF:-1 tvg-id="beINSPORTS5" tvg-name="[FR]_BeIN_SPORTS_MAX_5_local" tvg-logo="http://fullboxiptv.com/img/bmx4.png" group-title="SPORTS TV FRANCE",[FR]_BeIN_SPORTS_MAX_5_local
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/694
+#EXTINF:-1 tvg-id="beINSPORTS6" tvg-name="[FR]_BeIN_SPORTS_MAX_6_local" tvg-logo="http://fullboxiptv.com/img/bein6max.png" group-title="SPORTS TV FRANCE",[FR]_BeIN_SPORTS_MAX_6_local
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/695
+#EXTINF:-1 tvg-id="beINSPORTS7" tvg-name="[FR]_BeIN_SPORTS_MAX_7_local" tvg-logo="http://fullboxiptv.com/img/bmx7.png" group-title="SPORTS TV FRANCE",[FR]_BeIN_SPORTS_MAX_7_local
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/696
+#EXTINF:-1 tvg-id="beINSPORTS8" tvg-name="[FR]_BeIN_SPORTS_MAX_8_local" tvg-logo="http://fullboxiptv.com/img/bmax8.png" group-title="SPORTS TV FRANCE",[FR]_BeIN_SPORTS_MAX_8_local
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/697
+#EXTINF:-1 tvg-id="beINSPORTS9" tvg-name="[FR]_BeIN_SPORTS_MAX_9_local" tvg-logo="http://fullboxiptv.com/img/be9max.png" group-title="SPORTS TV FRANCE",[FR]_BeIN_SPORTS_MAX_9_local
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/698
+#EXTINF:-1 tvg-id="beINSPORTS10" tvg-name="[FR]_BeIN_SPORTS_MAX_10_local" tvg-logo="http://fullboxiptv.com/img/bmax10.png" group-title="SPORTS TV FRANCE",[FR]_BeIN_SPORTS_MAX_10_local
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/699
+#EXTINF:-1 tvg-id="BFMSport" tvg-name="[FR]_RMC_SPORT_NEWS" tvg-logo="http://fullboxiptv.com/img/RMCSNEWS.png" group-title="SPORTS TV FRANCE",[FR]_RMC_SPORT_NEWS
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/723
+#EXTINF:-1 tvg-id="SFRSport1.fr" tvg-name="[FR]_RMC_SPORT_1" tvg-logo="http://fullboxiptv.com/img/RMCS1.jpg" group-title="SPORTS TV FRANCE",[FR]_RMC_SPORT_1
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/259
+#EXTINF:-1 tvg-id="SFRSport1.fr" tvg-name="[FR]_RMC_SPORT_1_LOCAL" tvg-logo="http://fullboxiptv.com/img/RMCS1.jpg" group-title="SPORTS TV FRANCE",[FR]_RMC_SPORT_1_LOCAL
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4808
+#EXTINF:-1 tvg-id="SFRSport1.fr" tvg-name="[FR]_RMC_SPORT_1_FHD" tvg-logo="http://fullboxiptv.com/img/RMCS1.jpg" group-title="SPORTS TV FRANCE",[FR]_RMC_SPORT_1_FHD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4789
+#EXTINF:-1 tvg-id="RMCSportAccess1" tvg-name="[FR]_RMC_SPORT_ACCESS_1" tvg-logo="http://fullboxiptv.com/img/rmcaccess1.png" group-title="SPORTS TV FRANCE",[FR]_RMC_SPORT_ACCESS_1
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/7514
+#EXTINF:-1 tvg-id="SFRSport2.fr" tvg-name="[FR]_RMC_SPORT_2" tvg-logo="http://fullboxiptv.com/img/RMCS2.jpg" group-title="SPORTS TV FRANCE",[FR]_RMC_SPORT_2
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/258
+#EXTINF:-1 tvg-id="SFRSport2.fr" tvg-name="[FR]_RMC_SPORT_2_FHD" tvg-logo="http://fullboxiptv.com/img/RMCS2.jpg" group-title="SPORTS TV FRANCE",[FR]_RMC_SPORT_2_FHD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4790
+#EXTINF:-1 tvg-id="RMCSportAccess2" tvg-name="[FR]_RMC_SPORT_ACCESS_2" tvg-logo="http://fullboxiptv.com/img/rmcaccess2.png" group-title="SPORTS TV FRANCE",[FR]_RMC_SPORT_ACCESS_2
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/7515
+#EXTINF:-1 tvg-id="SFRSport3.fr" tvg-name="[FR]_RMC_SPORT_3" tvg-logo="http://fullboxiptv.com/img/RMCS3.jpg" group-title="SPORTS TV FRANCE",[FR]_RMC_SPORT_3
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/528
+#EXTINF:-1 tvg-id="SFRSport3.fr" tvg-name="[FR]_RMC_SPORT_3_FHD" tvg-logo="http://fullboxiptv.com/img/RMCS3.jpg" group-title="SPORTS TV FRANCE",[FR]_RMC_SPORT_3_FHD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4791
+#EXTINF:-1 tvg-id="RMCSportAccess3" tvg-name="[FR]_RMC_SPORT_ACCESS_3" tvg-logo="http://fullboxiptv.com/img/rmcaccess3.png" group-title="SPORTS TV FRANCE",[FR]_RMC_SPORT_ACCESS_3
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/7516
+#EXTINF:-1 tvg-id="SFRSport5.fr" tvg-name="[FR]_RMC_SPORT_4" tvg-logo="http://fullboxiptv.com/img/RMCS4.jpg" group-title="SPORTS TV FRANCE",[FR]_RMC_SPORT_4
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/726
+#EXTINF:-1 tvg-id="SFRSport5.fr" tvg-name="[FR]_RMC_SPORT_4_FHD" tvg-logo="http://fullboxiptv.com/img/RMCS4.jpg" group-title="SPORTS TV FRANCE",[FR]_RMC_SPORT_4_FHD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4792
+#EXTINF:-1 tvg-id="RMCSportLive5" tvg-name="[FR]_RMC_SPORT_LIVE_5" tvg-logo="http://fullboxiptv.com/img/rmc-live5.png" group-title="SPORTS TV FRANCE",[FR]_RMC_SPORT_LIVE_5
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/5968
+#EXTINF:-1 tvg-id="RMCSportLive6" tvg-name="[FR]_RMC_SPORT_LIVE_6" tvg-logo="http://fullboxiptv.com/img/rmc-live6.png" group-title="SPORTS TV FRANCE",[FR]_RMC_SPORT_LIVE_6
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/5969
+#EXTINF:-1 tvg-id="RMCSportLive7" tvg-name="[FR]_RMC_SPORT_LIVE_7" tvg-logo="http://fullboxiptv.com/img/rmc-live7.png" group-title="SPORTS TV FRANCE",[FR]_RMC_SPORT_LIVE_7
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/5970
+#EXTINF:-1 tvg-id="RMCSportLive8" tvg-name="[FR]_RMC_SPORT_LIVE_8" tvg-logo="http://fullboxiptv.com/img/rmc-live8.png" group-title="SPORTS TV FRANCE",[FR]_RMC_SPORT_LIVE_8
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/5971
+#EXTINF:-1 tvg-id="RMCSportLive9" tvg-name="[FR]_RMC_SPORT_LIVE_9" tvg-logo="http://fullboxiptv.com/img/rmc-live9.png" group-title="SPORTS TV FRANCE",[FR]_RMC_SPORT_LIVE_9
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/5972
+#EXTINF:-1 tvg-id="RMCSportLive10" tvg-name="[FR]_RMC_SPORT_LIVE_10" tvg-logo="http://fullboxiptv.com/img/rmc-live10.png" group-title="SPORTS TV FRANCE",[FR]_RMC_SPORT_LIVE_10
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/5973
+#EXTINF:-1 tvg-id="RMCSportLive11" tvg-name="[FR]_RMC_SPORT_LIVE_11" tvg-logo="http://fullboxiptv.com/img/rmc-live11.png" group-title="SPORTS TV FRANCE",[FR]_RMC_SPORT_LIVE_11
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/5974
+#EXTINF:-1 tvg-id="RMCSportLive12" tvg-name="[FR]_RMC_SPORT_LIVE_12" tvg-logo="http://fullboxiptv.com/img/rmc-live12.png" group-title="SPORTS TV FRANCE",[FR]_RMC_SPORT_LIVE_12
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/5975
+#EXTINF:-1 tvg-id="RMCSportLive13" tvg-name="[FR]_RMC_SPORT_LIVE_13" tvg-logo="http://fullboxiptv.com/img/rmc-live13.png" group-title="SPORTS TV FRANCE",[FR]_RMC_SPORT_LIVE_13
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/5976
+#EXTINF:-1 tvg-id="RMCSportLive14" tvg-name="[FR]_RMC_SPORT_LIVE_14" tvg-logo="http://fullboxiptv.com/img/rmc-live14.png" group-title="SPORTS TV FRANCE",[FR]_RMC_SPORT_LIVE_14
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/5977
+#EXTINF:-1 tvg-id="" tvg-name="[BE]_VOO_SPORT1" tvg-logo="http://fullboxiptv.com/img/voosport1.png" group-title="Belgique",[BE]_VOO_SPORT1
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4126
+#EXTINF:-1 tvg-id="" tvg-name="[BE]_VOO_SPORT2" tvg-logo="http://fullboxiptv.com/img/VOOsport-World-2.png" group-title="Belgique",[BE]_VOO_SPORT2
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4127
+#EXTINF:-1 tvg-id="" tvg-name="[BE]_ELEVEN_SPORT_1HD" tvg-logo="http://fullboxiptv.com/img/elevensports_1_icon_20171214.png" group-title="Belgique",[BE]_ELEVEN_SPORT_1HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/5121
+#EXTINF:-1 tvg-id="" tvg-name="[BE]_ELEVEN_SPORT_2HD" tvg-logo="http://fullboxiptv.com/img/elevensports_2_icon_20171214.png" group-title="Belgique",[BE]_ELEVEN_SPORT_2HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/5122
+#EXTINF:-1 tvg-id="Eurosport" tvg-name="[DE]_EUROSPORT_1HD" tvg-logo="http://fullboxiptv.com/img/europsort-1-HD.jpg" group-title="Germany TV",[DE]_EUROSPORT_1HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/92
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="[DE]_EUROSPORT_2HD" tvg-logo="http://fullboxiptv.com/img/eurosport-2-hd.png" group-title="Germany TV",[DE]_EUROSPORT_2HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/3621
+#EXTINF:-1 tvg-id="Eurosport 2 HD Xtra" tvg-name="[DE]_EUROSPORT_2-XTRA_HD" tvg-logo="http://fullboxiptv.com/img/europsort-extra.jpg" group-title="Germany TV",[DE]_EUROSPORT_2-XTRA_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4567
+#EXTINF:-1 tvg-id="" tvg-name="[DE]_DAZN_1HD" tvg-logo="http://fullboxiptv.com/img/dazn1.png" group-title="Germany TV",[DE]_DAZN_1HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/5210
+#EXTINF:-1 tvg-id="" tvg-name="[DE]_DAZN_2HD" tvg-logo="http://fullboxiptv.com/img/dazn2.png" group-title="Germany TV",[DE]_DAZN_2HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/5211
+#EXTINF:-1 tvg-id="sportdigital" tvg-name="[DE]_SPORT_DIGITAL" tvg-logo="http://fullboxiptv.com/img/sportdigital.png" group-title="Germany TV",[DE]_SPORT_DIGITAL
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4566
+#EXTINF:-1 tvg-id="Sky Sport Austria" tvg-name="[DE]_SKY_SPORT_AUSTRIA" tvg-logo="http://fullboxiptv.com/img/skysportaustria.png" group-title="Sky Deutschland",[DE]_SKY_SPORT_AUSTRIA
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4565
+#EXTINF:-1 tvg-id="Sky Sport News HD" tvg-name="[DE]_SKY_SPORT_NEWS_HD" tvg-logo="http://fullboxiptv.com/img/skysportnews_DE.png" group-title="Sky Deutschland",[DE]_SKY_SPORT_NEWS_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/616
+#EXTINF:-1 tvg-id="Sky Sport 1 HD" tvg-name="[DE]_SKY_SPORT_1" tvg-logo="http://fullboxiptv.com/img/skysport1.png" group-title="Sky Deutschland",[DE]_SKY_SPORT_1
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4568
+#EXTINF:-1 tvg-id="Sky Sport 2 HD" tvg-name="[DE]_SKY_SPORT_2" tvg-logo="http://fullboxiptv.com/img/skysport2.png" group-title="Sky Deutschland",[DE]_SKY_SPORT_2
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4564
+#EXTINF:-1 tvg-id="Sky Sport 1 HD" tvg-name="[DE]_SKY_SPORT_1HD" tvg-logo="http://fullboxiptv.com/img/skysport1_DE.png" group-title="Sky Deutschland",[DE]_SKY_SPORT_1HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/503
+#EXTINF:-1 tvg-id="Sky Sport 2 HD" tvg-name="[DE]_SKY_SPORT_2HD" tvg-logo="http://fullboxiptv.com/img/skysport2_DE.png" group-title="Sky Deutschland",[DE]_SKY_SPORT_2HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/506
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 1" tvg-name="[DE]_SKY_BUNDESLIGA_1HD" tvg-logo="http://fullboxiptv.com/img/skybundesliga1_DE.png" group-title="Sky Deutschland",[DE]_SKY_BUNDESLIGA_1HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/72
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 2" tvg-name="[DE]_SKY_BUNDESLIGA_2HD(ONLY_ON_MATCHDAY)" tvg-logo="http://fullboxiptv.com/img/skybundesliga2_DE.png" group-title="Sky Deutschland",[DE]_SKY_BUNDESLIGA_2HD(ONLY_ON_MATCHDAY)
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/71
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 3" tvg-name="[DE]_SKY_BUNDESLIGA_3HD(ONLY_ON_MATCHDAY)" tvg-logo="http://fullboxiptv.com/img/skybundesligahd3.png" group-title="Sky Deutschland",[DE]_SKY_BUNDESLIGA_3HD(ONLY_ON_MATCHDAY)
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4569
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 4" tvg-name="[DE]_SKY_BUNDESLIGA_4HD(ONLY_ON_MATCHDAY)" tvg-logo="http://fullboxiptv.com/img/skybundesligahd4.png" group-title="Sky Deutschland",[DE]_SKY_BUNDESLIGA_4HD(ONLY_ON_MATCHDAY)
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4570
+#EXTINF:-1 tvg-id="" tvg-name="[DE]_SKY_BUNDESLIGA_5HD(ONLY_ON_MATCHDAY)" tvg-logo="http://fullboxiptv.com/img/skybundesligahd5.png" group-title="Sky Deutschland",[DE]_SKY_BUNDESLIGA_5HD(ONLY_ON_MATCHDAY)
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4571
+#EXTINF:-1 tvg-id="" tvg-name="[DE]_SKY_BUNDESLIGA_6HD(ONLY_ON_MATCHDAY)" tvg-logo="http://fullboxiptv.com/img/skybundesliga6.png" group-title="Sky Deutschland",[DE]_SKY_BUNDESLIGA_6HD(ONLY_ON_MATCHDAY)
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4572
+#EXTINF:-1 tvg-id="" tvg-name="[DE]_SKY_BUNDESLIGA_7HD(ONLY_ON_MATCHDAY)" tvg-logo="http://fullboxiptv.com/img/skybundesliga7.png" group-title="Sky Deutschland",[DE]_SKY_BUNDESLIGA_7HD(ONLY_ON_MATCHDAY)
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4573
+#EXTINF:-1 tvg-id="" tvg-name="[DE]_SKY_BUNDESLIGA_8HD(ONLY_ON_MATCHDAY)" tvg-logo="http://fullboxiptv.com/img/skybundesliga8.png" group-title="Sky Deutschland",[DE]_SKY_BUNDESLIGA_8HD(ONLY_ON_MATCHDAY)
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4574
+#EXTINF:-1 tvg-id="" tvg-name="[DE]_SKY_BUNDESLIGA_9HD(ONLY_ON_MATCHDAY)" tvg-logo="http://fullboxiptv.com/img/skybundesliga9.png" group-title="Sky Deutschland",[DE]_SKY_BUNDESLIGA_9HD(ONLY_ON_MATCHDAY)
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4575
+#EXTINF:-1 tvg-id="Eurosport1 - Italia" tvg-name="[Italia]_EUROSPORT_1HD" tvg-logo="http://fullboxiptv.com/img/europsort-1-HD.jpg" group-title="Sky Italia",[Italia]_EUROSPORT_1HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/331
+#EXTINF:-1 tvg-id="" tvg-name="[Italia]_EUROSPORT_2HD" tvg-logo="http://fullboxiptv.com/img/eurosport-2-hd.png" group-title="Sky Italia",[Italia]_EUROSPORT_2HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/328
+#EXTINF:-1 tvg-id="Premium-Calcio 1" tvg-name="[Italia]_RAI_SCUOLA" tvg-logo="http://fullboxiptv.com/img/RaiScuola.png" group-title="Sky Italia",[Italia]_RAI_SCUOLA
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/323
+#EXTINF:-1 tvg-id="" tvg-name="[Italia]_UNINETTUNO UNIVERSITY TV" tvg-logo="http://fullboxiptv.com/img/UNINETTUNOUNIVERSITY.png" group-title="Sky Italia",[Italia]_UNINETTUNO UNIVERSITY TV
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/313
+#EXTINF:-1 tvg-id="" tvg-name="[Italia]_20_MEDIASET_HD" tvg-logo="http://fullboxiptv.com/img/20medisethd.png" group-title="Sky Italia",[Italia]_20_MEDIASET_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/314
+#EXTINF:-1 tvg-id="SKY CALCIO 4 HD" tvg-name="[Italia]_PREMIUM_CALCIO_4HD" tvg-logo="http://fullboxiptv.com/img/premiumcalcio4hdit.png" group-title="Sky Italia",[Italia]_PREMIUM_CALCIO_4HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/312
+#EXTINF:-1 tvg-id="" tvg-name="[Italia]_TV K-C" tvg-logo="http://fullboxiptv.com/img/tvkc.png" group-title="Sky Italia",[Italia]_TV K-C
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/3103
+#EXTINF:-1 tvg-id="SuperTennis HD" tvg-name="[Italia]_SUPER_TENNIS_HD" tvg-logo="http://fullboxiptv.com/img/supertennis.png" group-title="italia TV",[Italia]_SUPER_TENNIS_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/327
+#EXTINF:-1 tvg-id="Inter Channel IT" tvg-name="[Italia]_INTER_CHANNEL" tvg-logo="http://fullboxiptv.com/img/intertv.png" group-title="Sky Italia",[Italia]_INTER_CHANNEL
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/3079
+#EXTINF:-1 tvg-id="Sky Sport 1 HD" tvg-name="[Italia]_SKY_SPORT_UNO_HD" tvg-logo="http://fullboxiptv.com/img/skys1italia.jpg" group-title="Sky Italia",[Italia]_SKY_SPORT_UNO_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/1375
+#EXTINF:-1 tvg-id="Sky Sport 2 HD  -720p" tvg-name="[Italia]_SKY_SPORT_ARENA_HD" tvg-logo="http://fullboxiptv.com/img/skysportarena.jpg" group-title="Sky Italia",[Italia]_SKY_SPORT_ARENA_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/1415
+#EXTINF:-1 tvg-id="" tvg-name="[Italia]_SKY_SPORT_FOOTBALL_HD" tvg-logo="http://fullboxiptv.com/img/SKYSPORTFOOTBAL.png" group-title="Sky Italia",[Italia]_SKY_SPORT_FOOTBALL_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/7547
+#EXTINF:-1 tvg-id="Sky Sport 3 FHD IT" tvg-name="[Italia]_SKY_SPORT_SERIE_A_HD" tvg-logo="http://fullboxiptv.com/img/SKYSPORTSERIAAHD.png" group-title="Sky Italia",[Italia]_SKY_SPORT_SERIE_A_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/1416
+#EXTINF:-1 tvg-id="Sky Sport 24 HD" tvg-name="[Italia]_SKY_SPORT_24HD" tvg-logo="http://fullboxiptv.com/img/skysport24it.png" group-title="Sky Italia",[Italia]_SKY_SPORT_24HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/628
+#EXTINF:-1 tvg-id="" tvg-name="[Italia]_SKY_SPORT_GOLF_HD" tvg-logo="http://fullboxiptv.com/img/SKYSPORTGOLF.png" group-title="Sky Italia",[Italia]_SKY_SPORT_GOLF_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/7548
+#EXTINF:-1 tvg-id="" tvg-name="[Italia]_SKY_SPORT_NBA_HD" tvg-logo="http://fullboxiptv.com/img/SKYSPORTNBA.png" group-title="Sky Italia",[Italia]_SKY_SPORT_NBA_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/7546
+#EXTINF:-1 tvg-id="Sky Sport MotoGP HD" tvg-name="[Italia]_SKY_MOTO_GP_HD" tvg-logo="http://fullboxiptv.com/img/skysportmotogphd.jpg" group-title="Sky Italia",[Italia]_SKY_MOTO_GP_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/311
+#EXTINF:-1 tvg-id="Sky Sport F1 HD" tvg-name="[Italia]_SKY_SPORT_F1_HD" tvg-logo="http://fullboxiptv.com/img/skysf1it.jpg" group-title="Sky Italia",[Italia]_SKY_SPORT_F1_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/3611
+#EXTINF:-1 tvg-id="" tvg-name="[Italia]_Sky_Calcio_1" tvg-logo="http://4d-area.biz/imgb/skycalcio1.jpg" group-title="italia TV",[Italia]_Sky_Calcio_1
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/1408
+#EXTINF:-1 tvg-id="" tvg-name="[Italia]_Sky_Calcio_2" tvg-logo="http://fullboxiptv.com/img/skycalcio2.png" group-title="Sky Italia",[Italia]_Sky_Calcio_2
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/3104
+#EXTINF:-1 tvg-id="" tvg-name="[Italia]_Sky_Calcio_3" tvg-logo="http://4d-area.biz/imgb/skycalcio3.jpg" group-title="Sky Italia",[Italia]_Sky_Calcio_3
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/3105
+#EXTINF:-1 tvg-id="SKY CALCIO 4 HD" tvg-name="[Italia]_Sky_Calcio_4" tvg-logo="http://4d-area.biz/imgb/skycalcio4.png" group-title="Sky Italia",[Italia]_Sky_Calcio_4
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/3106
+#EXTINF:-1 tvg-id="" tvg-name="[Italia]_Sky_Calcio_5" tvg-logo="http://nst.sky.it/content/dam/html/skyit/pacchetti-offerte/sky-calcio/Sky-Calcio-HD.png" group-title="Sky Italia",[Italia]_Sky_Calcio_5
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/1412
+#EXTINF:-1 tvg-id="" tvg-name="[Italia]_RAI_GULP" tvg-logo="http://4d-area.biz/imgb/RAIGULP.png" group-title="italia TV",[Italia]_RAI_GULP
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/1413
+#EXTINF:-1 tvg-id="" tvg-name="[Italia]_DAZN_1HD" tvg-logo="http://fullboxiptv.com/img/dazn1.png" group-title="Sky Italia",[Italia]_DAZN_1HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/5212
+#EXTINF:-1 tvg-id="" tvg-name="[Italia]_DAZN_2HD" tvg-logo="http://fullboxiptv.com/img/dazn2.png" group-title="italia TV",[Italia]_DAZN_2HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/7074
+#EXTINF:-1 tvg-id="" tvg-name="[Italia]_DAZN _1HD (ON MATCHDAY)" tvg-logo="http://fullboxiptv.com/img/dazn.jpg" group-title="Sky Italia",[Italia]_DAZN _1HD (ON MATCHDAY)
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/7075
+#EXTINF:-1 tvg-id="" tvg-name="[Italia]_DAZN _2HD (ON MATCHDAY)" tvg-logo="http://fullboxiptv.com/img/dazn.jpg" group-title="Sky Italia",[Italia]_DAZN _2HD (ON MATCHDAY)
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/7076
+#EXTINF:-1 tvg-id="" tvg-name="[Italia]_DAZN _3HD (ON MATCHDAY)" tvg-logo="http://fullboxiptv.com/img/dazn.jpg" group-title="Sky Italia",[Italia]_DAZN _3HD (ON MATCHDAY)
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/7077
+#EXTINF:-1 tvg-id="" tvg-name="[Italia]_DAZN _4HD (ON MATCHDAY)" tvg-logo="http://fullboxiptv.com/img/dazn.jpg" group-title="Sky Italia",[Italia]_DAZN _4HD (ON MATCHDAY)
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/7078
+#EXTINF:-1 tvg-id="" tvg-name="[Italia]_DAZN _5HD (ON MATCHDAY)" tvg-logo="http://fullboxiptv.com/img/dazn.jpg" group-title="Sky Italia",[Italia]_DAZN _5HD (ON MATCHDAY)
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/7079
+#EXTINF:-1 tvg-id="" tvg-name="[Italia]_DAZN _6HD (ON MATCHDAY)" tvg-logo="http://fullboxiptv.com/img/dazn.jpg" group-title="Sky Italia",[Italia]_DAZN _6HD (ON MATCHDAY)
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/7080
+#EXTINF:-1 tvg-id="" tvg-name="[Italia]_DAZN _7HD (ON MATCHDAY)" tvg-logo="http://fullboxiptv.com/img/dazn.jpg" group-title="Sky Italia",[Italia]_DAZN _7HD (ON MATCHDAY)
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/7081
+#EXTINF:-1 tvg-id="" tvg-name="[Italia]_DAZN _8HD (ON MATCHDAY)" tvg-logo="http://fullboxiptv.com/img/dazn.jpg" group-title="Sky Italia",[Italia]_DAZN _8HD (ON MATCHDAY)
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/7082
+#EXTINF:-1 tvg-id="" tvg-name="[Italia]_DAZN _9HD (ON MATCHDAY)" tvg-logo="http://fullboxiptv.com/img/dazn.jpg" group-title="Sky Italia",[Italia]_DAZN _9HD (ON MATCHDAY)
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/7083
+#EXTINF:-1 tvg-id="" tvg-name="[Italia]_DAZN _10HD (ON MATCHDAY)" tvg-logo="http://fullboxiptv.com/img/dazn.jpg" group-title="Sky Italia",[Italia]_DAZN _10HD (ON MATCHDAY)
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/7084
+#EXTINF:-1 tvg-id="Sport Klub 1" tvg-name="[SPORT]_SPORT_KLUB_1" tvg-logo="http://fullboxiptv.com/img/sportklub1.jpg" group-title="SPORTS TV ARABE",[SPORT]_SPORT_KLUB_1
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/429
+#EXTINF:-1 tvg-id="Sport Klub 2 HD" tvg-name="[SPORT]_SPORT_KLUB_2" tvg-logo="http://fullboxiptv.com/img/sk2hd.png" group-title="SPORTS TV ARABE",[SPORT]_SPORT_KLUB_2
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/430
+#EXTINF:-1 tvg-id="Sport Klub 3 SLO" tvg-name="[SPORT]_SPORT_KLUB_3" tvg-logo="http://fullboxiptv.com/img/sk3hd.jpg" group-title="SPORTS TV ARABE",[SPORT]_SPORT_KLUB_3
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/431
+#EXTINF:-1 tvg-id="Sport Klub 4" tvg-name="[SPORT]_SPORT_KLUB_4" tvg-logo="http://fullboxiptv.com/img/sk4.jpg" group-title="SPORTS TV ARABE",[SPORT]_SPORT_KLUB_4
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/428
+#EXTINF:-1 tvg-id="Sport Klub 5" tvg-name="[SPORT]_SPORT_KLUB_5" tvg-logo="http://fullboxiptv.com/img/sportkluib5.jpg" group-title="SPORTS TV ARABE",[SPORT]_SPORT_KLUB_5
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/298
+#EXTINF:-1 tvg-id="Arena Sport 1 HD" tvg-name="[SPORT]_ARENASPORT_1" tvg-logo="http://fullboxiptv.com/img/arenas1.png" group-title="SPORTS TV ARABE",[SPORT]_ARENASPORT_1
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/65
+#EXTINF:-1 tvg-id="Arena Sport 2 HD" tvg-name="[SPORT]_ARENASPORT_2" tvg-logo="http://fullboxiptv.com/img/arenas2.png" group-title="SPORTS TV ARABE",[SPORT]_ARENASPORT_2
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/64
+#EXTINF:-1 tvg-id="Arena Sport 3 HD" tvg-name="[SPORT]_ARENASPORT_3" tvg-logo="http://fullboxiptv.com/img/arenas3.png" group-title="SPORTS TV ARABE",[SPORT]_ARENASPORT_3
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/63
+#EXTINF:-1 tvg-id="Arena Sport 4 HD" tvg-name="[SPORT]_ARENASPORT_4" tvg-logo="http://fullboxiptv.com/img/arenas4.png" group-title="SPORTS TV ARABE",[SPORT]_ARENASPORT_4
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/62
+#EXTINF:-1 tvg-id="Arena Sport 5" tvg-name="[SPORT]_ARENASPORT_5" tvg-logo="http://fullboxiptv.com/img/arenas5.png" group-title="SPORTS TV ARABE",[SPORT]_ARENASPORT_5
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/61
+#EXTINF:-1 tvg-id="Sport TV 1" tvg-name="[PT]_SPORT_TV_1" tvg-logo="http://fullboxiptv.com/img/sport_tv_pt_1.png" group-title="Portugal TV",[PT]_SPORT_TV_1
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4286
+#EXTINF:-1 tvg-id="Sport TV 2" tvg-name="[PT]_SPORT_TV_2" tvg-logo="http://fullboxiptv.com/img/sport_tv_pt_2.png" group-title="Portugal TV",[PT]_SPORT_TV_2
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4287
+#EXTINF:-1 tvg-id="Sport TV 3" tvg-name="[PT]_SPORT_TV_3" tvg-logo="http://fullboxiptv.com/img/sport_tv_pt_3.png" group-title="Portugal TV",[PT]_SPORT_TV_3
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4288
+#EXTINF:-1 tvg-id="Sport TV 4" tvg-name="[PT]_SPORT_TV_4" tvg-logo="http://fullboxiptv.com/img/sport_tv_pt_4.png" group-title="Portugal TV",[PT]_SPORT_TV_4
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4289
+#EXTINF:-1 tvg-id="Sport TV 5" tvg-name="[PT]_SPORT_TV_5" tvg-logo="http://fullboxiptv.com/img/sporttv5ptt.png" group-title="Portugal TV",[PT]_SPORT_TV_5
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/4290
+#EXTINF:-1 tvg-id="Sport TV 1" tvg-name="[PT]_SPORT_TV_1HD" tvg-logo="http://fullboxiptv.com/img/Sport-TV1-HD.png" group-title="Portugal TV",[PT]_SPORT_TV_1HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/460
+#EXTINF:-1 tvg-id="Sport TV 2" tvg-name="[PT]_SPORT_TV_2HD" tvg-logo="http://fullboxiptv.com/img/sporttv2.png" group-title="Portugal TV",[PT]_SPORT_TV_2HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/462
+#EXTINF:-1 tvg-id="Sport TV 3" tvg-name="[PT]_SPORT_TV_3HD" tvg-logo="http://fullboxiptv.com/img/sporttv3hd.png" group-title="Portugal TV",[PT]_SPORT_TV_3HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/464
+#EXTINF:-1 tvg-id="Sport TV 4" tvg-name="[PT]_SPORT_TV_4HD" tvg-logo="http://fullboxiptv.com/img/sporttv4hd.png" group-title="Portugal TV",[PT]_SPORT_TV_4HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/466
+#EXTINF:-1 tvg-id="Sport TV 5" tvg-name="[PT]_SPORT_TV_5HD" tvg-logo="http://fullboxiptv.com/img/sporttv5.png" group-title="Portugal TV",[PT]_SPORT_TV_5HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/467
+#EXTINF:-1 tvg-id="Eleven Sports 1" tvg-name="[PT]_ELEVEN_SPORTS_1HD" tvg-logo="http://fullboxiptv.com/img/elevensports_1_icon_20171214.png" group-title="Portugal TV",[PT]_ELEVEN_SPORTS_1HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/6502
+#EXTINF:-1 tvg-id="Eleven Sports 1" tvg-name="[PT]_ELEVEN_SPORTS_2HD" tvg-logo="http://fullboxiptv.com/img/elevensports_2_icon_20171214.png" group-title="Portugal TV",[PT]_ELEVEN_SPORTS_2HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/6503
+#EXTINF:-1 tvg-id="Eleven Sports 1" tvg-name="[PT]_ELEVEN_SPORTS_3HD" tvg-logo="http://fullboxiptv.com/img/eleven-sports3.png" group-title="Portugal TV",[PT]_ELEVEN_SPORTS_3HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/6504
+#EXTINF:-1 tvg-id="" tvg-name="[PT]_ELEVEN_SPORTS_4HD" tvg-logo="http://fullboxiptv.com/img/elevensport4.png" group-title="Portugal TV",[PT]_ELEVEN_SPORTS_4HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/7031
+#EXTINF:-1 tvg-id="" tvg-name="[PT]_ELEVEN_SPORTS_5HD" tvg-logo="http://fullboxiptv.com/img/elevensport5.png" group-title="Portugal TV",[PT]_ELEVEN_SPORTS_5HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/7032
+#EXTINF:-1 tvg-id="" tvg-name="[PT]_ELEVEN_SPORTS_6HD" tvg-logo="http://fullboxiptv.com/img/elevensport6.png" group-title="Portugal TV",[PT]_ELEVEN_SPORTS_6HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/7033
+#EXTINF:-1 tvg-id="Sport 1" tvg-name="[RO]_DIGI_SPORT_1" tvg-logo="http://fullboxiptv.com/img/digisport1.png" group-title="SPORTS TV ARABE",[RO]_DIGI_SPORT_1
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/784
+#EXTINF:-1 tvg-id="Sport 2" tvg-name="[RO]_DIGI_SPORT_2" tvg-logo="http://fullboxiptv.com/img/digisport2.png" group-title="SPORTS TV ARABE",[RO]_DIGI_SPORT_2
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/785
+#EXTINF:-1 tvg-id="Sport 3" tvg-name="[RO]_DIGI_SPORT_3" tvg-logo="http://fullboxiptv.com/img/digisport3.png" group-title="SPORTS TV ARABE",[RO]_DIGI_SPORT_3
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/786
+#EXTINF:-1 tvg-id="" tvg-name="[RO]_DIGI_SPORT_4" tvg-logo="http://fullboxiptv.com/img/digisport4.jpg" group-title="SPORTS TV ARABE",[RO]_DIGI_SPORT_4
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/787
+#EXTINF:-1 tvg-id="FOX Sports 1 Eredivisie" tvg-name="[NL]_Fox_Sports_1" tvg-logo="http://fullboxiptv.com/img/foxsport1.jpg" group-title="Netherlands TV",[NL]_Fox_Sports_1
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2810
+#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="[NL]_Fox_Sports_2" tvg-logo="http://fullboxiptv.com/img/foxsport2.jpg" group-title="Netherlands TV",[NL]_Fox_Sports_2
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2811
+#EXTINF:-1 tvg-id="FOX Sports 3 Eredivisie" tvg-name="[NL]_Fox_Sports_3" tvg-logo="http://fullboxiptv.com/img/foxsport3.jpg" group-title="Netherlands TV",[NL]_Fox_Sports_3
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2813
+#EXTINF:-1 tvg-id="FOX Sports 4" tvg-name="[NL]_Fox_Sports_4" tvg-logo="http://fullboxiptv.com/img/foxsport4.png" group-title="Netherlands TV",[NL]_Fox_Sports_4
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2814
+#EXTINF:-1 tvg-id="FOX Sports 5 Eredivisie" tvg-name="[NL]_Fox_Sports_5" tvg-logo="http://fullboxiptv.com/img/foxsport5.png" group-title="Netherlands TV",[NL]_Fox_Sports_5
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/2815
