@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="bbc1northernireland.uk" tvg-name="IR | BBC One NI FHD" tvg-logo="http://www.menorcafreeview.com/images/ni.jpg" group-title="UK | Irish",IR | BBC One NI FHD
+http://xshosting.ddns.net:25461/Kyle.noon88@gmail.com/44jjg3g15/62417
+#EXTINF:-1 tvg-id="bbc1.uk" tvg-name="IR | BBC One NI SD" tvg-logo="http://www.menorcafreeview.com/images/ni.jpg" group-title="UK | Irish",IR | BBC One NI SD
+http://xshosting.ddns.net:25461/Kyle.noon88@gmail.com/44jjg3g15/62416
+#EXTINF:-1 tvg-id="utv.ie" tvg-name="IR | UTV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/UTV_2016.svg/1200px-UTV_2016.svg.png" group-title="UK | Irish",IR | UTV SD
+http://xshosting.ddns.net:25461/Kyle.noon88@gmail.com/44jjg3g15/62407
+#EXTINF:-1 tvg-id="utv.ie" tvg-name="IR l UTV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/UTV_2016.svg/1200px-UTV_2016.svg.png" group-title="UK | Irish",IR l UTV FHD
+http://xshosting.ddns.net:25461/Kyle.noon88@gmail.com/44jjg3g15/62409
 #EXTINF:-1 tvg-id="UK-103 ITV" tvg-name="[UK]_ITV_1HD" tvg-logo="http://fullboxiptv.com/img/itv1hd.png" group-title="UK TV",[UK]_ITV_1HD
 http://live.maxcimo.com:8000/moradplus4ou42kjgbb/55128407/161
 #EXTINF:-1 tvg-id="UK-103 ITV" tvg-name="[UK]_ITV_1SD" tvg-logo="http://fullboxiptv.com/img/itv1sd.png" group-title="UK TV",[UK]_ITV_1SD
